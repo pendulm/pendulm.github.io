@@ -1,11 +1,11 @@
 # Site settings
 title: Hey! Watch Out
-email: ekim.sgra@gmail.com
+email: lenpendulm#gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Some intresting notes here.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://args.me" # the base hostname & protocol for your site
-twitter_username: ekim_sgra
+url: "http://pendulm.github.io" # the base hostname & protocol for your site
+twitter_username: pendulm
 github_username:  pendulm
 
 # Build settings

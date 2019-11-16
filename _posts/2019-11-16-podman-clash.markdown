@@ -55,6 +55,8 @@ Now, podman-compose starts clash container and it works.
 ## Start-up Automatically
 podman is a deamonless container runtime, when you reboot the host, all podman container stopped. If you want your clash container in the background when you boot the host you must run it with systemd.
 
+a [systemd user service][systemd-user] is fine with this usage.
+
 podman support this with `podman-generate`:
 {% highlight sh %}
 $ podman generate systemd --files --name clash
@@ -72,3 +74,4 @@ Created symlink /home/mike/.config/systemd/user/multi-user.target.wants/pod-clas
 [podman]: https://podman.io/
 [clash-example]: https://github.com/Dreamacro/clash/wiki/Run-clash-in-docker
 [podman-compose]: https://github.com/containers/podman-compose 
+[systemd-user]: https://www.brendanlong.com/systemd-user-services-are-amazing.html

@@ -22,4 +22,14 @@ rpm --erase --allmatches gpg-pubkey-*-*
 
 {% endhighlight %}
 
+
+## Package install
+
+{% highlight sh %}
+# install base development tools
+sudo dnf groupinstall --skip-broken "C Development Tools and Libraries"
+
+{% endhighlight %}
+
+
 [key-link]: https://cinhtau.net/2016/12/22/import-and-remove-gpg-key-with-rpm/

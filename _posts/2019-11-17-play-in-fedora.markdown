@@ -2,7 +2,7 @@
 layout: post
 title:  "Some Note for work in Fedora/CentOS/RHEL"
 date:   2019-11-17 12:47:00
-categories: linux
+categories: linux, fedora, dnf
 ---
 
 ## RPM keys management
@@ -27,7 +27,10 @@ rpm --erase --allmatches gpg-pubkey-*-*
 
 {% highlight sh %}
 # install base development tools
-sudo dnf groupinstall --skip-broken "C Development Tools and Libraries"
+dnf groupinstall --skip-broken "C Development Tools and Libraries"
+
+# install build dependency
+dnf builddep systemd
 
 {% endhighlight %}
 

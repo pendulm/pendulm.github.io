@@ -25,4 +25,4 @@ brew cask install sonic-pi
 {% endhighlight %}
 
 
-
+[twitter]: https://twitter.com/goldengrape/status/1196632708228640769

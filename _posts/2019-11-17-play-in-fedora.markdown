@@ -32,6 +32,10 @@ dnf groupinstall --skip-broken "C Development Tools and Libraries"
 # install build dependency
 dnf builddep systemd
 
+# install virtual tools 
+# see: https://docs.fedoraproject.org/en-US/quick-docs/getting-started-with-virtualization/
+dnf install @virtualization
+
 {% endhighlight %}
 
 

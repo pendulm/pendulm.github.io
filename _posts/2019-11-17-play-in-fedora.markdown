@@ -36,6 +36,9 @@ dnf builddep systemd
 # see: https://docs.fedoraproject.org/en-US/quick-docs/getting-started-with-virtualization/
 dnf install @virtualization
 
+# download srpm
+dnf download --source kernel
+
 {% endhighlight %}
 
 

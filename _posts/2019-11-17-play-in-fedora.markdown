@@ -33,6 +33,9 @@ dnf groupinstall --skip-broken "C Development Tools and Libraries"
 # see: https://docs.fedoraproject.org/en-US/quick-docs/getting-started-with-virtualization/
 dnf install @virtualization
 
+# show hidden group
+dnf grouplist --hidden
+
 # download srpm
 dnf download --source kernel
 
@@ -47,6 +50,9 @@ dnf repoquery --whatrequires podman
 
 # podman depends which
 dnf deplist podman
+
+# install java # see: https://docs.fedoraproject.org/en-US/quick-docs/installing-java/
+dnf install java-1.8.0-openjdk-devel
 
 {% endhighlight %}
 

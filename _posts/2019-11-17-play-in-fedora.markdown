@@ -39,6 +39,9 @@ dnf grouplist --hidden
 # download srpm
 dnf download --source kernel
 
+# only use this repo
+dnf --disablerepo="*" --enablerepo="fedora" search glibc
+
 # list package content
 dnf repoquery -l podman
 

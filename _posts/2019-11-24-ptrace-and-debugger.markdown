@@ -20,6 +20,8 @@ manpage：[http://man7.org/linux/man-pages/man2/ptrace.2.html](http://man7.org/l
   - [https://github.com/baloo/setns](https://github.com/baloo/setns)
 - ptrace-call-userspace
   - [https://github.com/eklitzke/ptrace-call-userspace](https://github.com/eklitzke/ptrace-call-userspace)
+- gtrace
+  - [https://github.com/agis/gtrace](https://github.com/agis/gtrace)
 
 # Debugger
 

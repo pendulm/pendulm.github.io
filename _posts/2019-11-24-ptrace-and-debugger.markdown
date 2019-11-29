@@ -22,6 +22,8 @@ manpage：[http://man7.org/linux/man-pages/man2/ptrace.2.html](http://man7.org/l
   - [https://github.com/eklitzke/ptrace-call-userspace](https://github.com/eklitzke/ptrace-call-userspace)
 - gtrace
   - [https://github.com/agis/gtrace](https://github.com/agis/gtrace)
+- strace: ptrace kaleidoscope, the code is clear
+  - [https://github.com/strace/strace](https://github.com/strace/strace)
 
 # Debugger
 
@@ -29,7 +31,8 @@ manpage：[http://man7.org/linux/man-pages/man2/ptrace.2.html](http://man7.org/l
   - post：[https://opensource.com/article/18/1/how-debuggers-really-work](https://opensource.com/article/18/1/how-debuggers-really-work)
   - talk & code：[https://github.com/levex/debugger-talk](https://github.com/levex/debugger-talk)
 - debugger in Go
-  - [post 1](https://medium.com/@lizrice/a-debugger-from-scratch-part-1-7f55417bc85f)、[post 2](https://medium.com/@lizrice/a-debugger-from-scratch-part-2-9954006850bd)
+  - [post 1](https://medium.com/@lizrice/a-debugger-from-scratch-part-1-7f55417bc85f)
+  - [post 2](https://medium.com/@lizrice/a-debugger-from-scratch-part-2-9954006850bd)
 - Writing a Linux Debugger
   - Part 1: Setup：[https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
   - Part 2: Breakpoints ：[https://blog.tartanllama.xyz/writing-a-linux-debugger-breakpoints/](https://blog.tartanllama.xyz/writing-a-linux-debugger-breakpoints/)
@@ -48,4 +51,4 @@ manpage：[http://man7.org/linux/man-pages/man2/ptrace.2.html](http://man7.org/l
 
 # ELF
 - PLT and GOT - the key to code sharing and dynamic libraries
-  - https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html 
+  - [https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html](https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html)

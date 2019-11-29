@@ -45,3 +45,7 @@ manpage：[http://man7.org/linux/man-pages/man2/ptrace.2.html](http://man7.org/l
   - How does gdb work?：[https://jvns.ca/blog/2016/08/10/how-does-gdb-work/](https://jvns.ca/blog/2016/08/10/how-does-gdb-work/)
   - How does gdb call functions?：[https://jvns.ca/blog/2018/01/04/how-does-gdb-call-functions/](https://jvns.ca/blog/2018/01/04/how-does-gdb-call-functions/)
 
+
+# ELF
+- PLT and GOT - the key to code sharing and dynamic libraries
+  - https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html 

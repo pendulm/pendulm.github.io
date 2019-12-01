@@ -62,6 +62,11 @@ dnf install java-1.8.0-openjdk-devel
 See also fedora magazine RPM packages series [1][rpm1],[2][rpm2],[3][rpm3]
 
 
+## flatpak
+
+### fix CJK font missing in telegram
+see: https://github.com/flathub/org.telegram.desktop/issues/63
+
 [key-link]: https://cinhtau.net/2016/12/22/import-and-remove-gpg-key-with-rpm/
 [rpm1]: https://fedoramagazine.org/rpm-packages-explained/
 [rpm2]: https://fedoramagazine.org/how-rpm-packages-are-made-the-source-rpm/

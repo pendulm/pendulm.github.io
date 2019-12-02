@@ -48,6 +48,19 @@ manpage：[http://man7.org/linux/man-pages/man2/ptrace.2.html](http://man7.org/l
   - How does gdb work?：[https://jvns.ca/blog/2016/08/10/how-does-gdb-work/](https://jvns.ca/blog/2016/08/10/how-does-gdb-work/)
   - How does gdb call functions?：[https://jvns.ca/blog/2018/01/04/how-does-gdb-call-functions/](https://jvns.ca/blog/2018/01/04/how-does-gdb-call-functions/)
 
+# System Call
+
+- LWN: Anatomy of a system call
+  - [part 1](https://lwn.net/Articles/604287/)
+- Packagecloud: The Definitive Guide to Linux System Calls
+  - [https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
+- StackOverflow: What are the calling conventions for UNIX & Linux system calls on i386 and x86-64
+  - [https://stackoverflow.com/questions/2535989/what-are-the-calling-conventions-for-unix-linux-system-calls-on-i386-and-x86-6](https://stackoverflow.com/questions/2535989/what-are-the-calling-conventions-for-unix-linux-system-calls-on-i386-and-x86-6)
+
+# Security
+- PTRACE_TRACEME 本地提权漏洞解析
+ - [https://paper.seebug.org/1087/](https://paper.seebug.org/1087/)
+
 
 # ELF
 - PLT and GOT - the key to code sharing and dynamic libraries

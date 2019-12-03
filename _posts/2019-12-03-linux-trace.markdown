@@ -5,6 +5,9 @@ date:   2019-12-03 00:07:00
 categories: Linux
 ---
 
+# BPF
+- [BPF: A New Type of Software](http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html)
+
 ## bpftrace
 
 simple syscall inspect

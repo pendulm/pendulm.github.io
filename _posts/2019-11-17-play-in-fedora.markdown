@@ -2,7 +2,7 @@
 layout: post
 title:  "Some Note for work in Fedora/CentOS/RHEL"
 date:   2019-11-17 12:47:00
-categories: linux, fedora, dnf
+categories: fedora
 ---
 
 ## RPM keys management
@@ -66,7 +66,7 @@ dnf install java-1.8.0-openjdk-devel
 
 dnf configuration example
 
-{% highlight %}
+{% highlight txt %}
 [main]
 gpgcheck=1
 installonly_limit=2

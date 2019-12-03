@@ -33,6 +33,11 @@ dnf groupinstall --skip-broken "C Development Tools and Libraries"
 # see: https://docs.fedoraproject.org/en-US/quick-docs/getting-started-with-virtualization/
 dnf install @virtualization
 
+# remove old kernel
+dnf remove $(dnf repoquery --installonly --latest-limit=-2 -q)
+
+edit /etc/dnf/dnf.conf and set installonly_limit=2
+
 # show hidden group
 dnf grouplist --hidden
 
@@ -59,8 +64,18 @@ dnf install java-1.8.0-openjdk-devel
 
 {% endhighlight %}
 
-See also fedora magazine RPM packages series [1][rpm1],[2][rpm2],[3][rpm3]
+dnf configuration example
 
+{% highlight %}
+[main]
+gpgcheck=1
+installonly_limit=2
+max_parallel_downloads=10
+clean_requirements_on_remove=True
+proxy=http://192.168.99.1:7890
+{% endhighlight %}
+
+See also fedora magazine RPM packages series [1][rpm1],[2][rpm2],[3][rpm3]
 
 ## flatpak
 

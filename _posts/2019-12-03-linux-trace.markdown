@@ -22,5 +22,14 @@ Attaching 1 probe...
 2273 0xffff8ba3a1a71f40 12 0 824634150384
 2273 0xffff8ba3a1a71f40 13 0 824634150384
 2273 0xffff8ba3a1a71f40 17 0 0
+
+$ bpftrace -e 'kretprobe:arch_ptrace { printf("%d\n", retval) }'
+Attaching 1 probe...
+0
+0
+0
+0
 {% endhighlight %}
+
+SEE MORE: [bpftrace git doc](https://github.com/iovisor/bpftrace/tree/master/docs)
 

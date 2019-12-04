@@ -7,6 +7,7 @@ categories: Linux
 
 # BPF
 - [BPF: A New Type of Software](http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html)
+- [从DPDK和eBPF感受一下Smart NIC](https://blog.csdn.net/dog250/article/details/103301816)
 
 ## bpftrace
 

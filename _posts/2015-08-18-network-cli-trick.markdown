@@ -45,6 +45,10 @@ curl -s -o /dev/null -w  '%{time_namelookup}\
      %{time_total}'  "$URL"
 {% endhighlight %}
 
+## scan port of a list of host
+{% highlight sh %}
+nmap -iL ip.txt -p 12200 -oG output
+{% endhighlight %}
 
 ## advance network tools
 - [nmap](https://nmap.org/)

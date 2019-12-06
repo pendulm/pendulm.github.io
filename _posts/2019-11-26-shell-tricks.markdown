@@ -31,3 +31,18 @@ exec 4>&-
 
 {% endhighlight %}
 
+play with two files
+see: https://stackoverflow.com/questions/1016244/unix-command-to-find-string-set-intersections-or-outliers
+
+{% highlight shell %}
+# intersect with two sorted file
+comm -12 file1 file2
+
+# intersect two unsorted file
+grep -Fx -f file1 file2
+sort file1 file2 | uniq -d
+
+# Left unique file1 from file2
+comm -23 <(sort -u file1) <(sort -u file2)
+
+{% endhighlight %}

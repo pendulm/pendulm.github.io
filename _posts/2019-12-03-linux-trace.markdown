@@ -37,3 +37,6 @@ Attaching 1 probe...
 
 SEE MORE: [bpftrace git doc](https://github.com/iovisor/bpftrace/tree/master/docs)
 
+# USDT
+- [Exploring USDT Probes on Linux](https://leezhenghui.github.io/linux/2019/03/05/exploring-usdt-on-linux.html)
+

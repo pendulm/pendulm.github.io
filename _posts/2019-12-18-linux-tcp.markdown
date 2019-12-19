@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Linux TCP Topic"
+date:   2015-08-19 22:30:00
+categories: network
+---
+
+## Kernel
+### TCP RESET
+- [TCP的RESET报文](http://blog.sina.com.cn/s/blog_62d5e6cd0100me16.html)
+- [从Reset报文窥探Linux TCP连接关闭原因](https://www.atatech.org/articles/116498)
+
+
+### TCP Memory
+- [结合案例深入解析orphan socket产生与消亡（一）](https://yq.aliyun.com/articles/91966)
+- [结合案例深入解析orphan socket产生与消亡（二）](https://yq.aliyun.com/articles/92925)
+- [TCP性能和发送接收Buffer的关系](https://yq.aliyun.com/articles/720202)
+- [How to tell how much memory TCP buffers are actually using?](https://unix.stackexchange.com/questions/419518/how-to-tell-how-much-memory-tcp-buffers-are-actually-using)
+
+
+## SNMP
+- [Linux network metrics: why you should use nstat instead of netstat](https://loicpefferkorn.net/2016/03/linux-network-metrics-why-you-should-use-nstat-instead-of-netstat/)
+- [Linux network statistics reference](https://loicpefferkorn.net/2018/09/linux-network-statistics-reference/)
+- [TCP 统计信息详解](https://github.com/moooofly/MarkSomethingDown/blob/master/Linux/TCP%20%E7%9B%B8%E5%85%B3%E7%BB%9F%E8%AE%A1%E4%BF%A1%E6%81%AF%E8%AF%A6%E8%A7%A3.md)
+
+
+## Socket
+- [How do SO_REUSEADDR and SO_REUSEPORT differ?](https://stackoverflow.com/questions/14388706/how-do-so-reuseaddr-and-so-reuseport-differ)
+

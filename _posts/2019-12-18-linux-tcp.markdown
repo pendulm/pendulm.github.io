@@ -10,6 +10,15 @@ categories: network
 - [TCP的RESET报文](http://blog.sina.com.cn/s/blog_62d5e6cd0100me16.html)
 - [从Reset报文窥探Linux TCP连接关闭原因](https://www.atatech.org/articles/116498)
 
+### TCP Retransmit
+- [Linux ftrace TCP Retransmit Tracing](http://www.brendangregg.com/blog/2014-09-06/linux-ftrace-tcp-retransmit-tracing.html)
+
+
+### TCP Backlog
+- ["kernel: Possible SYN flooding on port X. Sending cookies" is logged](https://access.redhat.com/solutions/30453)
+-[All you need to know about SYN floods](https://blog.dubbelboer.com/2012/04/09/syn-cookies.html)
+- [Tuning NGINX for Performance](https://www.nginx.com/blog/tuning-nginx/)
+
 
 ### TCP Memory
 - [结合案例深入解析orphan socket产生与消亡（一）](https://yq.aliyun.com/articles/91966)

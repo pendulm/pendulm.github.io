@@ -46,3 +46,10 @@ sort file1 file2 | uniq -d
 comm -23 <(sort -u file1) <(sort -u file2)
 
 {% endhighlight %}
+
+## Systemd
+
+{% highlight shell %}
+# resource limit
+systemd-run --scope -p CPUQuota=20% -p MemoryMax=512M stress -m 4
+{% endhighlight %}

@@ -39,4 +39,8 @@ SEE MORE: [bpftrace git doc](https://github.com/iovisor/bpftrace/tree/master/doc
 
 # USDT
 - [Exploring USDT Probes on Linux](https://leezhenghui.github.io/linux/2019/03/05/exploring-usdt-on-linux.html)
+- [Installing debugging tools into a Red Hat OpenShift container with oc-inject](https://developers.redhat.com/blog/2020/01/15/installing-debugging-tools-into-a-red-hat-openshift-container-with-oc-inject/)
+- [GDB and SystemTap probes -- part 1](https://blog.sergiodj.net/2012/03/29/gdb-and-systemtap-probes-part-1.html)
+- [GDB and SystemTap Probes -- part 2](https://blog.sergiodj.net/2012/10/27/gdb-and-systemtap-probes-part-2.html)
+- [GDB and SystemTap Probes -- part 3](https://blog.sergiodj.net/2012/11/02/gdb-and-systemtap-probes-part-3.html)
 

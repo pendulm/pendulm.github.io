@@ -62,6 +62,9 @@ dnf repoquery --whatrequires podman
 # podman depends which
 dnf deplist podman
 
+# search file in which repo
+dnf search *netem*
+
 # install java # see: https://docs.fedoraproject.org/en-US/quick-docs/installing-java/
 dnf install java-1.8.0-openjdk-devel
 

@@ -38,6 +38,9 @@ dnf remove $(dnf repoquery --installonly --latest-limit=-2 -q)
 
 edit /etc/dnf/dnf.conf and set installonly_limit=2
 
+# install extra module (eg: netem)
+dnf install  kernel-modules-extra
+
 # show hidden group
 dnf grouplist --hidden
 

@@ -13,12 +13,17 @@ curl ifconfig.me
 dig +short myip.opendns.com @resolver1.opendns.com # UDP
 {% endhighlight %}
 
+## IP information
+{% highlight sh %}
+curl http://ip-api.com/json/24.48.0.1
+curl https://ipapi.co/8.8.8.8/json/http://freeapi.ipip.net/118.28.8.8
+curl http://freeapi.ipip.net/118.28.8.8
+{% endhighlight %}
 
 ## Get all IP address range of an AS
 {% highlight sh %}
 whois -h asn.shadowserver.org prefix $asnumber
 {% endhighlight %}
-
 
 ## Get AS number which  IP address belong
 {% highlight sh %}
@@ -49,6 +54,14 @@ curl -s -o /dev/null -w  '%{time_namelookup}\
 {% highlight sh %}
 nmap -iL ip.txt -p 12200 -oG output
 {% endhighlight %}
+
+
+## get my NAT type
+{% highlight sh %}
+go-stun -s stun.miwifi.com:3478
+{% endhighlight %}
+[Public STUN server list](https://gist.github.com/mondain/b0ec1cf5f60ae726202e)
+
 
 ## advance network tools
 - [nmap](https://nmap.org/)

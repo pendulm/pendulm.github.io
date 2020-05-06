@@ -10,6 +10,9 @@ categories: distributed
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [Distributed Systems Reading Group](https://dsrg.pdos.csail.mit.edu/papers/)
 - [My Distributed Systems Seminar's reading list for Spring 2020](https://muratbuffalo.blogspot.com/2019/12/my-distributed-systems-seminars-reading.html)
+- [Paxos vs Raft: Have we reached consensus on distributed consensus?](https://arxiv.org/abs/2004.05074)
+- [Debugging   Distributed  Systems](https://dl.acm.org/doi/pdf/10.1145/2927299.2940294)
+
 
 ## Book
 - [Distributed Systems 3rd edition (2017)](https://www.distributed-systems.net/index.php/books/ds3/)

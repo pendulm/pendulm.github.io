@@ -50,6 +50,13 @@ dnf download --source kernel
 # only use this repo
 dnf --disablerepo="*" --enablerepo="fedora" search glibc
 
+# list repo
+dnf repolist
+
+# disable repo
+dnf config-manager --set-disabled zerotier tailscale-stable
+# see: https://docs.fedoraproject.org/en-US/Fedora/23/html/System_Administrators_Guide/sec-Managing_DNF_Repositories.html
+
 # list package content
 dnf repoquery -l podman
 

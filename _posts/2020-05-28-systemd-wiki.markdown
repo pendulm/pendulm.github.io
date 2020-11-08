@@ -10,6 +10,7 @@ categories: linux
 - [Using the systemctl command to manage systemd units](https://opensource.com/article/20/5/systemd-units)
 - [Using systemd features to secure services](https://www.redhat.com/sysadmin/systemd-secure-services)
 - [Systemd: Control Group APIs and Delegation](https://systemd.io/CGROUP_DELEGATION/)
+- [Managing resources with cgroups in systemd](https://opensource.com/article/20/10/cgroups)
 
 ## Desktop
 

@@ -56,6 +56,9 @@ dnf repolist
 # disable repo
 dnf config-manager --set-disabled zerotier tailscale-stable
 # see: https://docs.fedoraproject.org/en-US/Fedora/23/html/System_Administrators_Guide/sec-Managing_DNF_Repositories.html
+sudo dnf --disablerepo="*" --enablerepo="tailscale-stable" update tailscale
+
+sudo dnf --disablerepo="*" --enablerepo="zerotier" update zerotier-one
 
 # list package content
 dnf repoquery -l podman

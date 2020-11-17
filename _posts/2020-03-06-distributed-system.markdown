@@ -12,6 +12,7 @@ categories: distributed
 - [My Distributed Systems Seminar's reading list for Spring 2020](https://muratbuffalo.blogspot.com/2019/12/my-distributed-systems-seminars-reading.html)
 - [Paxos vs Raft: Have we reached consensus on distributed consensus?](https://arxiv.org/abs/2004.05074)
 - [Debugging   Distributed  Systems](https://dl.acm.org/doi/pdf/10.1145/2927299.2940294)
+- [Virtual consensus in Delos](https://blog.acolyer.org/2020/11/09/delos/)
 
 
 ## Book

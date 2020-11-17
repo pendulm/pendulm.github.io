@@ -1,4 +1,4 @@
----
+--
 layout: post
 title:  "2020 November News"
 date:   2020-11-01 12:28:00
@@ -51,5 +51,53 @@ categories: link
   - github
 - [Fmstrat/winapps: Run Windows apps as if they were a part of the native OS](https://github.com/Fmstrat/winapps)
   - github
-
-
+- [Make A Language in Rust](https://arzg.github.io/lang/)
+- [Finally, a Problem That Only Quantum Computers Will Ever Be Able to Solve](https://www.quantamagazine.org/finally-a-problem-that-only-quantum-computers-will-ever-be-able-to-solve-20180621/)
+- [Low-Level Programming University](https://github.com/gurugio/lowlevelprogramming-university/)
+  - github
+- [Stateful Workloads and the Two Data Center Conundrum](https://www.openshift.com/blog/stateful-workloads-and-the-two-data-center-conundrum)
+  - openshift, storage, distribute system
+- [Seccomp for Fun and Profit](https://www.openshift.com/blog/seccomp-for-fun-and-profit)
+  - openshift
+- [Looking for Voter Fraud (in old elections) with Data Visualization](https://probablydance.com/2020/11/08/looking-for-voter-fraud-in-old-elections-with-data-visualization/)
+- [Using virtio-fs on a unikernel](https://www.qemu.org/2020/11/03/osv-virtio-fs/)
+- [Python behind the scenes #4: how Python bytecode is executed](https://tenthousandmeters.com/blog/python-behind-the-scenes-4-how-python-bytecode-is-executed/)
+- [Let’s build a video card!](https://eater.net/vga)
+  - diy
+- [What is a System-on-Chip (SoC), and Why Do We Care if They are Open Source?](https://www.bunniestudios.com/blog/?p=5971)
+- [theseus-os/Theseus: A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.](https://github.com/theseus-os/Theseus)
+  - github
+- [yuki-ycino/fzf-preview.vim](https://github.com/yuki-ycino/fzf-preview.vim)
+  - github
+- [Create your own smart baby monitor with a RaspberryPi and Tensorflow](https://towardsdatascience.com/create-your-own-smart-baby-monitor-with-a-raspberrypi-and-tensorflow-5b25713410ca)
+- [Build a baby monitor with a Raspberry Pi](https://opensource.com/article/18/3/build-baby-monitor-raspberry-pi)
+- [Building a Raspberry Pi 3 Baby Monitor](https://kamranicus.com/guides/raspberry-pi-3-baby-monitor)
+- [通过实例深入理解sync.Map的工作原理](https://tonybai.com/2020/11/10/understand-sync-map-inside-through-examples/)
+- [codefaster: Push complexity into your data](https://codefaster.substack.com/p/push-complexity-into-your-data)
+- [Using Fedora 33 with Microsoft’s WSL2](https://fedoramagazine.org/wsl-fedora-33/)
+  - fedoramagazine
+- [Digital sound processing tutorial for the braindead!](http://yehar.com/blog/?p=121)
+- [Extending the runtime functionality](https://www.openshift.com/blog/extending-the-runtime-functionality)
+- [Take a Dip into Windows Containers with OpenShift 4.6](https://www.openshift.com/blog/take-a-dip-into-windows-containers-with-openshift-4.6)
+- [joshlk/many_requests: Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
+](https://github.com/joshlk/many_requests)
+  - github
+- [c9fe/22120: About 🏛️ 22120 - Self-host the Internet with an Offline Archive](https://github.com/c9fe/22120)
+- [Booting a macOS Apple Silicon kernel in QEMU](https://worthdoingbadly.com/xnuqemu3/)
+- [Building a Homelab VM Server (2020 Edition)](https://mtlynch.io/building-a-vm-homelab/)
+- [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
+- [linux command One-liner](https://linuxcommandlibrary.com/basic/oneliners.html)
+- [psql command line tutorial and cheat sheet](https://tomcam.github.io/postgres/)
+- [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener)
+  - github
+- [epi052/feroxbuster](https://github.com/epi052/feroxbuster)
+  - github
+- [k0sproject/k0s](https://github.com/k0sproject/k0s)
+  - github
+- [orf/gping](Ping, but with a graph)
+  - github
+- [当 TiDB 与 Flink 相结合：高效、易用的实时数仓](https://pingcap.com/blog-cn/when-tidb-and-flink-are-combined/)
+  - pinpcap
+- [The Fetch API Cheatsheet: Nine of the Most Common API Requests](https://www.freecodecamp.org/news/fetch-api-cheatsheet/)
+- [radareorg/cutter: Free and Open Source Reverse Engineering Platform powered by radare2](https://github.com/radareorg/cutter)
+  - github

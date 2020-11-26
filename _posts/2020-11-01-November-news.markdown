@@ -101,3 +101,38 @@ categories: link
 - [The Fetch API Cheatsheet: Nine of the Most Common API Requests](https://www.freecodecamp.org/news/fetch-api-cheatsheet/)
 - [radareorg/cutter: Free and Open Source Reverse Engineering Platform powered by radare2](https://github.com/radareorg/cutter)
   - github
+- [Linux on RISC-V (RV Summit 2020)](https://docs.google.com/presentation/d/1mD-yPd-zB-DNXVTTNWGd22EZuSi9_4hcJGHYzrDQLjU/edit?usp=sharing)
+  - slide
+- [All you need to know about KVM userspace](https://www.redhat.com/en/blog/all-you-need-know-about-kvm-userspace)
+- [rougier/elegant-emacs: A very minimal but elegant emacs (I think)](https://github.com/rougier/elegant-emacs)
+  - github
+- [foxcpp/maddy: ✉️ Composable all-in-one mail server.](https://github.com/foxcpp/maddy)
+- [Rewritten in Rust: Modern Alternatives of Command-Line Tools](https://zaiste.net/posts/shell-commands-rust/)
+  - effecient
+- [vi/websocat: Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions](https://github.com/vi/websocat)
+  - github
+- [Developing Wayland Color Management and High Dynamic Range](https://www.collabora.com/news-and-blog/blog/2020/11/19/developing-wayland-color-management-and-high-dynamic-range/)
+- [Cloud control vs local control: What to choose for your home automation](https://opensource.com/article/20/11/cloud-vs-local-home-automation)
+- [Building an Esoteric Filesystem Tracing Tool with eBPF](https://suchakra.wordpress.com/2020/11/20/building-an-esoteric-filesystem-tracing-tool-with-ebpf/)
+  - libbpf, btf, CO-RE, trace
+- [A Simple Mocking Pattern for Go Unit Tests](https://www.dudley.codes/posts/2020.11.16-golang-mocking-pattern/)
+  - golang
+- [KVM for Android](https://lwn.net/Articles/836693/)
+  - lwn
+- [GoCon2020: Typing Generic Go](https://s3.amazonaws.com/bizzabo.file.upload/p1oqhNDwQq2kb6d78TDA_R%20Griesemer%20-%20Typing%20-Generic-%20Go.pdf)
+  - golang
+- [Golang generic syntax](https://go.googlesource.com/proposal/+/refs/heads/master/design/go2draft-type-parameters.md#why-not-use-the-syntax)
+  - golang
+- [Container image short names in Podman](https://www.redhat.com/sysadmin/container-image-short-names)
+- [Anchoring Trust: A Hardware Secure Boot Story](https://blog.cloudflare.com/anchoring-trust-a-hardware-secure-boot-story/)
+  - cloudflare
+- [Getting started with Firecracker on Raspberry Pi](https://dev.l1x.be/posts/2020/11/22/getting-started-with-firecracker-on-raspberry-pi/)
+- [Linux Capabilities in OpenShift](https://www.openshift.com/blog/linux-capabilities-in-openshift)
+- [MyNOR - The yet minor computer. No CPU, no ALU, one NOR-gate is enough](http://www.mynor.org/)
+- [Upgrade your Raspberry Pi 4 with a NVMe boot drive](https://alexellisuk.medium.com/upgrade-your-raspberry-pi-4-with-a-nvme-boot-drive-d9ab4e8aa3c2)
+- [My First Kernel Module: A Debugging Nightmare](https://reberhardt.com/blog/2020/11/18/my-first-kernel-module.html)
+  - rcu
+- [Surfingkeys 实用向推荐](https://sspai.com/post/63692)
+  - browser
+- [livegrep/livegrep: Interactively grep source code. Source for http://livegrep.com/](https://github.com/livegrep/livegrep)
+  - github

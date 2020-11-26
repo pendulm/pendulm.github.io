@@ -15,4 +15,4 @@ In this post I want to note the top-like system utilities I known, and do some c
 - [gotop](https://github.com/cjbassi/gotop)
 - [glances](https://nicolargo.github.io/glances/)
 - [ctop](https://ctop.sh/)
-
+- [zenith](https://github.com/bvaisvil/zenith)

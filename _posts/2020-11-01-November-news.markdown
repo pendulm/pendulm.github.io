@@ -136,3 +136,12 @@ categories: link
   - browser
 - [livegrep/livegrep: Interactively grep source code. Source for http://livegrep.com/](https://github.com/livegrep/livegrep)
   - github
+- [microsoft/ethr: Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP.](https://github.com/microsoft/ethr)
+  - github
+- [How to create a Linux RPM package](https://www.redhat.com/sysadmin/create-rpm-package)
+  - redhat
+- [Modern storage is plenty fast. It is the APIs that are bad.](https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a)
+- [P² quantile estimator: estimating the median without storing values](https://aakinshin.net/posts/p2-quantile-estimator/)
+- [IoT Unravelled Part 1: It's a Mess... But Then There's Home Assistant](https://www.troyhunt.com/iot-unravelled-part-1-its-a-mess-but-then-theres-home-assistant/)
+- [IoT Unravelled Part 2: IP Addresses, Network, Zigbee, Custom Firmware and Soldering](https://www.troyhunt.com/iot-unravelled-part-2-ip-addresses-network-zigbee-custom-firmware-and-soldering/)
+- [IoT Unravelled Part 3: Security](https://www.troyhunt.com/iot-unravelled-part-3-security/)

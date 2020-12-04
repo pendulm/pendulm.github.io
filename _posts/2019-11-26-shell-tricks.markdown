@@ -47,6 +47,12 @@ comm -23 <(sort -u file1) <(sort -u file2)
 
 {% endhighlight %}
 
+stop buffer when use pipeline
+
+{% highlight shell %}
+tail -f access.log | stdbuf -oL cut -d ' ' -f1 | uniq
+{% endhighlight %}
+
 ## Systemd
 
 {% highlight shell %}

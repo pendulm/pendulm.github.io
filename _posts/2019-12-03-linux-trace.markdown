@@ -10,6 +10,8 @@ categories: Linux
 - [从DPDK和eBPF感受一下Smart NIC](https://blog.csdn.net/dog250/article/details/103301816)
 - [how to add a bpf type: KRSI](https://lore.kernel.org/bpf/kcqxzhenen1b.fsf@jackmanb.zrh.corp.google.com/T/)
 - [Writing BPF code in Rust](https://blog.redsift.com/labs/writing-bpf-code-in-rust/)
+- [bpftrace 2020](https://mmi.hatenablog.com/entry/2020/12/02/031534)
+- [Title iconeBPF Updates #1: eBPF Summit Coverage, libbpf 0.2, BTF Developments, Bulk API for XDP, Local Task Storage for eBPF LSM](https://ebpf.io/news/ebpf-updates-intro)
 
 ## bpftrace
 

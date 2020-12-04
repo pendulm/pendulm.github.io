@@ -22,6 +22,9 @@ categories: tech
 ## Grafana
 - [How a Production Outage Was Caused Using Kubernetes Pod Priorities](https://grafana.com/blog/2019/07/24/how-a-production-outage-was-caused-using-kubernetes-pod-priorities/)
 
+## AWS
+- [Summary of the Amazon Kinesis Event in the Northern Virginia (US-EAST-1) Region](https://aws.amazon.com/message/11201/)
+
 ## Collection
 - [danluu/post-mortems](https://github.com/danluu/post-mortems)
 

@@ -28,3 +28,5 @@ categories: distributed
 - [Eli Bendersky's: Implementing Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
 - [Two-phase commit and beyond](https://muratbuffalo.blogspot.com/2018/12/2-phase-commit-and-beyond.html)
 - [PigPaxos: Devouring the communication bottlenecks in distributed consensus](https://muratbuffalo.blogspot.com/2020/03/pigpaxos-devouring-communication_18.html)
+- [Designing a Comprehensive Course in Distributed Systems: Reading List](https://backendology.com/2018/09/10/distributed-systems-course-reading-list/)
+- [Introduction to Distributed Systems Course](https://backendology.com/2018/09/19/distributed-systems-course-introduction/)

@@ -12,6 +12,8 @@ categories: Linux
 - [Writing BPF code in Rust](https://blog.redsift.com/labs/writing-bpf-code-in-rust/)
 - [bpftrace 2020](https://mmi.hatenablog.com/entry/2020/12/02/031534)
 - [Title iconeBPF Updates #1: eBPF Summit Coverage, libbpf 0.2, BTF Developments, Bulk API for XDP, Local Task Storage for eBPF LSM](https://ebpf.io/news/ebpf-updates-intro)
+- [pingcap: Why We Switched from bcc-tools to libbpf-tools for BPF Performance Analysis ](https://en.pingcap.com/blog/why-we-switched-from-bcc-tools-to-libbpf-tools-for-bpf-performance-analysis)
+- [bpftrace 2020](https://mmi.hatenablog.com/entry/2020/12/02/031534)
 
 ## bpftrace
 

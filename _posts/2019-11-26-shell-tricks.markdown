@@ -59,3 +59,10 @@ tail -f access.log | stdbuf -oL cut -d ' ' -f1 | uniq
 # resource limit
 systemd-run --scope -p CPUQuota=20% -p MemoryMax=512M stress -m 4
 {% endhighlight %}
+
+## JQ
+
+{% highlight shell %}
+# conver list to object
+echo a b  c d|xargs -n1 | jq -R . | jq  -s '.[]|{"key": ., "value":.}' | jq -s 'from_entries'
+{% endhighlight %}

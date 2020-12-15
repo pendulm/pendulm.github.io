@@ -11,6 +11,7 @@ categories: linux
 - [Using systemd features to secure services](https://www.redhat.com/sysadmin/systemd-secure-services)
 - [Systemd: Control Group APIs and Delegation](https://systemd.io/CGROUP_DELEGATION/)
 - [Managing resources with cgroups in systemd](https://opensource.com/article/20/10/cgroups)
+- [Manage multiple service instances with systemctl](https://opensource.com/article/20/12/multiple-service-instances-systemctl)
 
 ## Desktop
 

@@ -12,6 +12,7 @@ categories: tech
 
 ## Cloudflare
 - [Details of the Cloudflare outage on July 2, 2019](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
+- [A Byzantine failure in the real world](https://blog.cloudflare.com/a-byzantine-failure-in-the-real-world/)
 
 ## Stripe
 - [Root cause analysis: significantly elevated error rates on 2019‑07‑10](https://stripe.com/rcas/2019-07-10)

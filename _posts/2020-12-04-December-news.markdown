@@ -12,3 +12,57 @@ categories: link
 - [Set up Home Assistant to manage your open source smart home](https://opensource.com/article/20/12/home-assistant)
 - [New features in Docker 20.10 (Yes, it’s alive)](https://medium.com/nttlabs/docker-20-10-59cc4bd59d37)
   - rootless
+- [Go语言对ARM架构的支持与未来译](https://tonybai.com/2020/12/18/go-ports-until-202012/)
+  - golang
+- [一文告诉你神奇的Go内建函数源码在哪里](https://tonybai.com/2020/12/17/where-is-the-source-of-builtin-functions/)
+  - golang, internal
+- [如何利用ftrace精确跟踪特定进程调度信息](https://mp.weixin.qq.com/s/JDQA4W_Ylutp03NvShceDw)
+- [How to clean up the Fedora root folder](https://developers.redhat.com/blog/2020/12/10/how-to-clean-up-the-fedora-root-folder/)
+- [How to create fast queries with Loki’s LogQL to filter terabytes of logs in seconds](https://grafana.com/blog/2020/12/08/how-to-create-fast-queries-with-lokis-logql-to-filter-terabytes-of-logs-in-seconds/)
+- [Migrating to Ansible Collections](https://www.ansible.com/hubfs/Webinar%20PDF%20slides/2020-Dec-08--Webinar%20Migrating%20to%20Ansible%20Collections.pdf)
+- [Go 1.16 中关于 go get 和 go install 你需要注意的地方](https://moelove.info/2020/12/19/Go-1.16-%E4%B8%AD%E5%85%B3%E4%BA%8E-go-get-%E5%92%8C-go-install-%E4%BD%A0%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%9C%B0%E6%96%B9/)
+  - golang
+- [Building Black Friday e-commerce experiences with JAMstack and Cloudflare Workers](https://blog.cloudflare.com/building-black-friday-e-commerce-experiences-with-jamstack-and-cloudflare-workers/)
+  - cloudflare
+- [JAMstack at the Edge: How we built Built with Workers… on Workers](https://blog.cloudflare.com/jamstack-at-the-edge-how-we-built-built-with-workers-on-workers/)
+- [fcsonline / tmux-thumbs: A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator](https://github.com/fcsonline/tmux-thumbs)
+  - github
+- [轻量、便携、无需配置，还能把手机搬进浏览器：WebADB](https://sspai.com/post/64139)
+- [excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams](https://github.com/excalidraw/excalidraw)
+  - github, draw, design
+- [bytedance/IconPark](https://github.com/bytedance/IconPark)
+  - github, design
+- [Hotwire:HTML OVER THE WIRE](https://hotwire.dev/)
+- [是时候了](https://laike9m.com/blog/shi-shi-hou-liao,94/)
+  - 教育, 天赋
+- [How To Use GUI LVM Tools](https://www.linuxjournal.com/content/review-gui-lvm-tools)
+- [How to Use Thread.sleep Without Blocking on the JVM](https://www.freecodecamp.org/news/non-blocking-thread-sleep-on-jvm/)
+  - Project Loom, scala, jvisualvm
+- [Go语言有哪些“劣势”](https://tonybai.com/2020/12/24/the-disadvantages-of-go/)
+  - golang
+- [如何作废一个已发布的Go module版本，我来告诉你！](https://tonybai.com/2020/12/26/how-to-deprecate-a-published-version-of-some-specific-go-module/)
+  - golang
+- [Apache Flink 1.12.0 Release Announcement](https://flink.apache.org/news/2020/12/10/release-1.12.0.html)
+- [Improvements in task scheduling for batch workloads in Apache Flink 1.12](https://flink.apache.org/2020/12/15/pipelined-region-sheduling.html)
+- [DeepMind: Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+  - online course
+- [coolshell: GO编程模式](https://coolshell.cn/articles/21128.html)
+  - golang
+- [A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
+  - tutorial
+- [鸟窝:go os/exec 简明教程](https://colobu.com/2020/12/27/go-with-os-exec/)
+  - tutorial
+- [2020: The year in databases at Google Cloud](https://cloud.google.com/blog/products/databases/managed-cloud-database-services-what-was-new-in-2020)
+  - review
+- [Cosmopolitan libc: build-once run-anywhere c without devops](https://justine.lol/cosmopolitan/index.html)
+- [How Complex Systems Fail](https://perspectives.mvdirona.com/2020/03/how-complex-systems-fail/)
+  - sre
+- [raysan5/raylib:A simple and easy-to-use library to enjoy videogames programming](https://github.com/raysan5/raylib)
+- [LinkAce:Your self-hosted bookmark archive. Free and open source.](https://www.linkace.org/)
+- [北美华人E网](https://huaren.us/)
+  - forum
+- [A New Golden Age for Computer Architecture](https://cacm.acm.org/magazines/2019/2/234352-a-new-golden-age-for-computer-architecture/fulltext)
+  - hardware
+- [The Genius of RISC-V Microprocessors](https://erik-engheim.medium.com/the-genius-of-risc-v-microprocessors-b19d735abaa6)
+  - hardware
+- [Systems design explains the world: volume 1](https://apenwarr.ca/log/20201227)

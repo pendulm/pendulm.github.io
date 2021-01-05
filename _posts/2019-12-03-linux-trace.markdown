@@ -14,6 +14,18 @@ categories: Linux
 - [Title iconeBPF Updates #1: eBPF Summit Coverage, libbpf 0.2, BTF Developments, Bulk API for XDP, Local Task Storage for eBPF LSM](https://ebpf.io/news/ebpf-updates-intro)
 - [pingcap: Why We Switched from bcc-tools to libbpf-tools for BPF Performance Analysis ](https://en.pingcap.com/blog/why-we-switched-from-bcc-tools-to-libbpf-tools-for-bpf-performance-analysis)
 - [bpftrace 2020](https://mmi.hatenablog.com/entry/2020/12/02/031534)
+- [Part 1: Debugging Go in prod using eBPF](https://blog.pixielabs.ai/ebpf-function-tracing/post/)
+- [Part 2: Full body HTTP request/responses tracing using eBPF](https://blog.pixielabs.ai/ebpf-http-tracing/)
+- [Tracing Go Functions with eBPF Part 1](https://www.grant.pizza/blog/tracing-go-functions-with-ebpf-part-1/)
+- [Tracing Go Functions with eBPF Part 2](https://www.grant.pizza/blog/tracing-go-functions-with-ebpf-part-2/)
+- [1. An eBPF overview, part 1: Introduction](https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/)
+- [An eBPF overview, part 2: Machine & bytecode](https://www.collabora.com/news-and-blog/blog/2019/04/15/an-ebpf-overview-part-2-machine-and-bytecode/)
+- [An eBPF overview, part 3: Walking up the software stack](https://www.collabora.com/news-and-blog/blog/2019/04/26/an-ebpf-overview-part-3-walking-up-the-software-stack/)
+- [An eBPF overview, part 4: Working with embedded systems](https://www.collabora.com/news-and-blog/blog/2019/05/06/an-ebpf-overview-part-4-working-with-embedded-systems/)
+- [An eBPF overview, part 5: Tracing user processes](https://www.collabora.com/news-and-blog/blog/2019/05/14/an-ebpf-overview-part-5-tracing-user-processes/)
+- [How to Trace Linux System Calls in Production with Minimal Impact on Performance](https://pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance)
+
+
 
 ## bpftrace
 

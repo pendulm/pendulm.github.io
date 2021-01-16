@@ -13,6 +13,7 @@ There are a lot of project for music instrument by programming, enumerate some:
 - [sonic-pi](https://github.com/samaaron/sonic-pi)
 - [supercollider](https://github.com/supercollider/supercollider/)
 - [Sporth](https://github.com/PaulBatchelor/Sporth)
+- [handel](https://handel-pl.github.io/)
 
 and here even has a [awesome list](https://github.com/pjagielski/awesome-live-coding-music) of live coding music
 

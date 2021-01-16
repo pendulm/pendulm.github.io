@@ -36,3 +36,91 @@ categories: link
   - git
 - [Stripe’s payments APIs: the first ten years](https://stripe.com/blog/payment-api-design)
 - [Kubernetes: ClusterIP vs NodePort vs LoadBalancer, Services, and Ingress — an overview with examples](https://itnext.io/kubernetes-clusterip-vs-nodeport-vs-loadbalancer-services-and-ingress-an-overview-with-722a07f3cfe1)
+- [Why LZO was chosen as the new compression method](https://ubuntu.com//blog/why-lzo-was-chosen-as-the-new-compression-method)
+- [geohot/minikeyvalue:A distributed key value store in under 1000 lines](https://github.com/geohot/minikeyvalue)
+- [Kubernetes Ingress Controllers](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit#gid=907731238)
+- [Improving CLI output with jq](https://ubuntu.com//blog/improving-cli-output-with-jq)
+  - efficiency
+- [Debuginfo is not just for debugging programs](https://developers.redhat.com/blog/2021/01/07/debuginfo-is-not-just-for-debugging-programs/)
+- [An Introduction to Linux Gaming thanks to ProtonD](https://www.linuxjournal.com/content/introduction-linux-gaming-thanks-protondb)
+- [SELinux troubleshooting and pitfalls](https://www.redhat.com/sysadmin/selinux-troubleshooting)
+- [Java development on Fedora Linux](https://fedoramagazine.org/java-development-on-fedora-linux/)
+- [通过实例理解Go标准库http包是如何处理keep-alive连接的](https://tonybai.com/2021/01/08/understand-how-http-package-deal-with-keep-alive-connection/)
+  - golang
+- [Go语言很无聊…其实它妙不可言！](https://tonybai.com/2021/01/07/go-is-boring/)
+  - golang
+- [The React Cheatsheet for 2021(+ Real-World Examples)](https://www.freecodecamp.org/news/react-cheatsheet-with-real-world-examples/)
+- [JVM Tutorial - Java Virtual Machine Architecture Explained for Beginners](https://www.freecodecamp.org/news/jvm-tutorial-java-virtual-machine-architecture-explained-for-beginners/)
+- [The Platform Is The Enemy](https://danielbmarkham.com/the-platform-is-the-enemy/)
+- [leereilly/games:A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.](https://github.com/leereilly/games)
+- [Writing a Kubernetes CRD Controller in Rust](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html)
+- [蔚来ES8全车改色+《赛博朋克2077》主题点缀](https://www.gcores.com/articles/132710)
+- [Embed to app or tail a file, the log will send to your telegram](https://golangexample.com/embed-to-app-or-tail-a-file-the-log-will-send-to-your-telegram/)
+  - project
+- [Go tool to modify struct field tags](https://golangexample.com/go-tool-to-modify-struct-field-tags/)
+  - project
+- [Building Red Hat Enterprise Linux 9 for the x86-64-v2 microarchitecture level](https://developers.redhat.com/blog/2021/01/05/building-red-hat-enterprise-linux-9-for-the-x86-64-v2-microarchitecture-level/)
+- [Formatting tricks for the Linux date command](https://www.redhat.com/sysadmin/formatting-date-command)
+  - commandline
+- [Unlocking LUKS2 volumes with TPM2, FIDO2, PKCS#11 Security Hardware on systemd 248](http://0pointer.net/blog/unlocking-luks2-volumes-with-tpm2-fido2-pkcs11-security-hardware-on-systemd-248.html)
+- [Deploying a virtual TripleO standalone OpenStack system](https://www.redhat.com/sysadmin/tripleo-standalone-system)
+- [https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
+- [Getting started with Tekton and Pipelines](https://developers.redhat.com/blog/2021/01/13/getting-started-with-tekton-and-pipelines/)
+  - CI/CD, k8s
+- [Ocsp Stapling 和iOS界面卡顿问题](https://jhuo.ca/post/ocsp-stapling-letsencrypt/)
+- [Cross-compiling made easy with Golang](https://opensource.com/article/21/1/go-cross-compiling)
+  - golang
+- [How to Add Authentication to a Vue App Using AWS Amplify](https://www.freecodecamp.org/news/how-to-add-authentication-to-a-vue-app-using-aws-amplify/)
+- [Decentralised content moderation](https://martin.kleppmann.com/2021/01/13/decentralised-content-moderation.html)
+- [JEPSEN: etcd 3.4.3](https://jepsen.io/analyses/etcd-3.4.3)
+  - distribute system
+- [tailscale: An unlikely database migration](https://tailscale.com/blog/an-unlikely-database-migration/)
+  - etcd
+- [Building clusters with serf, my new favorite thing](https://fly.io/blog/building-clusters-with-serf/)
+  - distribute system
+- [Implementing leader election on Google Cloud Storage](https://cloud.google.com/blog/topics/developers-practitioners/implementing-leader-election-google-cloud-storage)
+  - distribute system
+- [Network address translation part 1 – packet tracing](https://fedoramagazine.org/network-address-translation-part-1-packet-tracing/)
+  - fedoramagazine
+- [SELinux troubleshooting and pitfalls](https://www.redhat.com/sysadmin/selinux-troubleshooting)
+- [Quorum Availability](https://brooker.co.za/blog/2021/01/06/quorum-availability)
+  - distribute system
+- [Pingcap: How to Simulate I/O Faults at Runtime?](https://en.pingcap.com/blog/how-to-simulate-io-faults-at-runtime)
+  - chaos
+- [Bored with magic tricks?](https://quarkus.io/blog/magic-control/)
+  - quarkus, example
+- [9 Key Machine Learning Algorithms Explained in Plain English](https://www.freecodecamp.org/news/a-no-code-intro-to-the-9-most-important-machine-learning-algorithms-today/)
+- [Soar: Simulation for Observability, reliAbility, and secuRity](https://blog.cloudflare.com/soar-simulation-for-observability-reliability-and-security/)
+  - cloudflare, SRE
+- [A Name Resolver for the Distributed Web](https://blog.cloudflare.com/cloudflare-distributed-web-resolver/)
+  - IPFS, ethereum
+- [are we distributed yet?: Let's make peer-to-peer a first-class part of the web.](https://arewedistributedyet.com/)
+  - webrtc, reference, decentralized
+- [ProtoSchool: Interactive tutorials on decentralized web protocols](https://proto.school/)
+  -  tutorial
+- [10 reasons to develop Quarkus applications on Red Hat OpenShift](https://developers.redhat.com/blog/2021/01/15/10-reasons-to-develop-quarkus-applications-on-red-hat-openshift/)
+  -  tutorial
+- [Coming in glibc 2.33: Reloadable nsswitch.conf](https://developers.redhat.com/blog/2021/01/15/coming-in-glibc-2-33-reloadable-nsswitch-conf/)
+  - redhat
+- [云原生数据库设计新思路](https://pingcap.com/blog-cn/new-ideas-for-designing-cloud-native-database/)
+  - database, pingcap
+- [TiDB 常⻅架构应⽤场景](https://pingcap.com/blog-cn/schema-application-scenario-for-tidb/)
+  - database, pingcap
+- [Evans: more expressive universal gRPC client](https://golangexample.com/evans-more-expressive-universal-grpc-client/)
+  - golang
+- [gyf304/vmcli: A set of utilities (vmcli + vmctl) for macOS Virtualization.framework](https://github.com/gyf304/vmcli)
+  - github
+- [The Greatest Books of All Time](https://thegreatestbooks.org/)
+- [Apple M1 Assembly Language Hello World](https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/)
+  - abi
+- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html)
+  - diy
+- [Scuttlebutt: social network a decentralised platform](https://scuttlebutt.nz/)
+  - p2p, gossip
+- [Messenger Comparison](https://threema.ch/en/messenger-comparison)
+  - signal, telegram
+- [A Week With Plan 9](https://thedorkweb.substack.com/p/a-week-with-plan-9)
+- [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/)
+  - python
+- [Fast commits for ext4](Fast commits for ext4)
+  - lwn

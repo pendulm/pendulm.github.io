@@ -111,6 +111,7 @@ categories: link
 - [gyf304/vmcli: A set of utilities (vmcli + vmctl) for macOS Virtualization.framework](https://github.com/gyf304/vmcli)
   - github
 - [The Greatest Books of All Time](https://thegreatestbooks.org/)
+  - reading
 - [Apple M1 Assembly Language Hello World](https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/)
   - abi
 - [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html)
@@ -124,3 +125,80 @@ categories: link
   - python
 - [Fast commits for ext4](Fast commits for ext4)
   - lwn
+- [mazznoer/colorgrad: Go (Golang) color scales library for maps, charts, data-visualization & creative coding.](https://github.com/mazznoer/colorgrad)
+  - github
+- [Debugging Goroutines: How to debug like a pro](https://vtimothy.com/posts/debugging-goroutines/)
+  - golang
+- [From note-taking to note-making](https://nesslabs.com/from-note-taking-to-note-making)
+  - mindset
+- [Freebsd jail 设计解读](https://paper.seebug.org/1449/)
+- [go-enry/go-enry: A faster file programming language detector](https://github.com/go-enry/go-enry)
+  - github
+- [正向角度看 Go 逆向](https://paper.seebug.org/1452/)
+  - golang, reverse
+- [htrefil/rkvm: Virtual KVM switch for Linux machines](https://github.com/htrefil/rkvm)
+  - github
+- [关于应对浪潮来临准备的思考](https://interconnected.blog/january-17-2021-surfing-pig-xiaomi-podcast-subscription-pinduoduo/)
+- [Enter Sandbox: How Google is building an internet without cookies - and why publishers are concerned](https://www.pressgazette.co.uk/death-of-third-party-cookies-sandbox-google/)
+  - privacy
+- [Creating Comfy FreeBSD Jails Using Standard Tools](https://kettunen.io/post/standard-freebsd-jails/)
+  - container
+- [GCP Outpaces Azure, AWS in the 2021 Cloud Report](https://www.cockroachlabs.com/blog/2021-cloud-report/)
+- [The Trouble With Cassandra: Why It's a Poor Choice For a Metadata Database for Object Stores](https://blog.min.io/the-trouble-with-cassandra-based-object-stores/)
+  - storage
+- [KEMTLS: Post-quantum TLS without signatures](https://blog.cloudflare.com/kemtls-post-quantum-tls-without-signatures/)
+  - cloudflare
+- [Understanding time and date in Go (Golang) – Complete Guide](https://golangbyexample.com/all-about-time-and-date-golang/)
+  - golang
+- [Dissecting OpenTelemetry Go Tracing](https://dmathieu.com/articles/development/dissecting-opentelemetry-tracing/)
+  - cloudnative
+- [陆奇演讲：世界新格局下的创业创新机会](https://mp.weixin.qq.com/s/5Ay7U-rWYxXh_TP16XfRiw)
+- [kettanaito / naming-cheatsheet: Comprehensive language-agnostic guidelines on variables naming.](https://github.com/kettanaito/naming-cheatsheet)
+  - github
+- [Visualizing system performance with RHEL 8 using Performance Co-Pilot (PCP) and Grafana (Part 1)](https://www.redhat.com/en/blog/visualizing-system-performance-rhel-8-using-performance-co-pilot-pcp-and-grafana-part-1)
+- [一日一技 | 用 LaunchBar 等启动器快速输入双重认证密码](https://sspai.com/post/64624)
+- [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/)
+  - tutorial
+- [Why Do We Keep Reading The Great Gatsby?](https://www.theparisreview.org/blog/2021/01/11/why-do-we-keep-reading-the-great-gatsby/)
+  - reading
+- [新能源汽车凭什么取代燃油车？](https://sspai.com/post/64579)
+- [化虚为实，用 Notion 来具体化你的新年目标与项目](https://sspai.com/post/64565)
+  - efficiency
+- [2020 最后一天，你准备好明年的时间管理了吗](https://sspai.com/post/64027)
+  - efficiency
+- [Linux and Powershell](https://matteoguadrini.github.io/posts/linux-and-powershell/)
+- [Make Your Own Internet Archive With Archive Box](https://nixintel.info/osint-tools/make-your-own-internet-archive-with-archive-box/)
+- [Intel Problems](https://stratechery.com/2021/intel-problems/)
+- [Exploration and Practice of Performance Tuning for Kata Containers 2.0](https://medium.com/kata-containers/exploration-and-practice-of-performance-tuning-for-kata-containers-2-0-85055d29e8b5)
+- [linux 内核(5.4.81)—内存管理模块源码分析](https://paper.seebug.org/1458/)
+  - kernel
+- [Set up a Linux cloud on bare metal](https://opensource.com/article/21/1/cloud-image-virt-install)
+  - cloud-init, virsh
+- [Falco vs. AuditD from the HIDS perspective](https://sysdig.com/blog/falco-vs-auditd-hids/)
+  - security
+- [Install cloud guest with virt-install and cloud-init configuration](https://quantum-integration.org/posts/install-cloud-guest-with-virt-install-and-cloud-init-configuration.html)
+  - virtual
+- [Virtual Machines with libvirt and Networking](https://paedubucher.ch/articles/2020-08-01-virtual-machines-with-libvirt-and-networking.html)
+  - virtual
+- [An Overview of QEMU Storage Features](https://www.qemu.org/2020/09/14/qemu-storage-overview/)
+- [Using virtio-fs on a unikernel](https://www.qemu.org/2020/11/04/osv-virtio-fs/)
+- [Red Hat Ceph Storage 5: Introducing Cephadm](https://www.redhat.com/en/blog/red-hat-ceph-storage-5-introducing-cephadm)
+- [Setting a firewalld zone for libvirt network](https://lukas.zapletalovi.com/2020/01/setting-a-firewalld-zone-for-libvirt-network.html)
+- [How to set up tlog on Linux hosts for terminal logging](https://www.redhat.com/sysadmin/terminal-logging)
+  - audit
+- [7 fun Linux containers/image transports features](https://www.redhat.com/sysadmin/7-transports-features)
+  - skopeo
+- [Convert your filesystem to Btrfs](https://fedoramagazine.org/convert-your-filesystem-to-btrfs/)
+- [Painless services: implementing serverless with rootless Podman and systemd](https://www.redhat.com/en/blog/painless-services-implementing-serverless-rootless-podman-and-systemd)
+- [Rootless Containers in Gitpod](https://www.cncf.io/wp-content/uploads/2020/12/Rootless-Containers-in-Gitpod.pdf)
+  - slide, shiftfs, user namespace
+- [offlineimap + mutt = how to deal with LKML](https://aishpant.dev/blog/mailing-lists/)
+- [Getting started with socat, a multipurpose relay tool for Linux](https://www.redhat.com/sysadmin/getting-started-socat)
+  - virtual, virtio
+- [Configuring virtio-blk and virtio-scsi Devices](https://www.qemu.org/2021/01/19/virtio-blk-scsi-configuration/)
+  - virtual, virtio
+- [Cleaning Up Unused Flatpak Runtimes](https://blogs.gnome.org/mwleeds/2021/01/11/cleaning-up-unused-flatpak-runtimes/)
+- [How to set up SSH dynamic port forwarding on Linux](https://www.redhat.com/sysadmin/ssh-dynamic-port-forwarding)
+  - proxy
+- [Introduction to ContainerJFR: JDK Flight Recorder for containers](https://developers.redhat.com/blog/2021/01/25/introduction-to-containerjfr-jdk-flight-recorder-for-containers/)
+  - java

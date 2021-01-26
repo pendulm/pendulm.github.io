@@ -98,6 +98,10 @@ See also fedora magazine RPM packages series [1][rpm1],[2][rpm2],[3][rpm3]
 ### fix CJK font missing in telegram
 see: https://github.com/flathub/org.telegram.desktop/issues/63
 
+
+### use flatpak in toolbox
+see: https://github.com/containers/toolbox/issues/147
+
 ## Debug
 
 ### enable kdump

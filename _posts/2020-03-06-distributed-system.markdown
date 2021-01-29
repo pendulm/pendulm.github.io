@@ -30,3 +30,5 @@ categories: distributed
 - [PigPaxos: Devouring the communication bottlenecks in distributed consensus](https://muratbuffalo.blogspot.com/2020/03/pigpaxos-devouring-communication_18.html)
 - [Designing a Comprehensive Course in Distributed Systems: Reading List](https://backendology.com/2018/09/10/distributed-systems-course-reading-list/)
 - [Introduction to Distributed Systems Course](https://backendology.com/2018/09/19/distributed-systems-course-introduction/)
+- [The Fundamental Mechanism of Scaling](https://brooker.co.za/blog/2021/01/22/cloud-scale)
+  - Spectrum of Systems, theorem tools

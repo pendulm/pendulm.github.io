@@ -202,3 +202,27 @@ categories: link
   - proxy
 - [Introduction to ContainerJFR: JDK Flight Recorder for containers](https://developers.redhat.com/blog/2021/01/25/introduction-to-containerjfr-jdk-flight-recorder-for-containers/)
   - java
+- [HHKB 蓝牙改造指北](https://xiaozhou.net/ydkb-ble-for-hhkb-2019-12-21.html)
+- [Explore binaries using this full-featured Linux tool](https://opensource.com/article/21/1/linux-radare2)
+  - radare2, assembly
+- [Firecracker: start a VM in less than a second](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/)
+  - containers, virtual
+- [Go embed 简明教程](https://colobu.com/2021/01/17/go-embed-tutorial/)
+  - golang
+- [Introducing Merkle DAGs](https://proto.school/merkle-dags)
+  - p2p
+- [长肥管道(LFT)中TCP的艰难处境与打法](https://blog.csdn.net/dog250/article/details/113020804)
+  - dog250, congestion
+- [网络Midbox处理TCP的方式对TCP吞吐的影响](https://blog.csdn.net/dog250/article/details/112691376)
+  - dog250, network
+- [谁动了你的五元组-nf_conntrack与NAT的性能](https://blog.csdn.net/dog250/article/details/112506797)
+  - dog250, network
+- [From Docker Compose to Kubernetes with Podman](https://www.redhat.com/sysadmin/compose-kubernetes-podman)
+- [Inception: How usable are nested KVM guests?](https://www.redhat.com/en/blog/inception-how-usable-are-nested-kvm-guests)
+  - virtual
+- [All you need to know about KVM userspace](https://www.redhat.com/en/blog/all-you-need-know-about-kvm-userspace)
+  - virtual
+- [QEMU Live Update](https://blogs.oracle.com/linux/qemu-live-update)
+  - virtual
+- [Multiprocess QEMU: Breaking up is hard to do](https://blogs.oracle.com/linux/multiprocess-qemu-at-last)
+  - virtual

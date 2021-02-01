@@ -177,9 +177,9 @@ categories: link
 - [Falco vs. AuditD from the HIDS perspective](https://sysdig.com/blog/falco-vs-auditd-hids/)
   - security
 - [Install cloud guest with virt-install and cloud-init configuration](https://quantum-integration.org/posts/install-cloud-guest-with-virt-install-and-cloud-init-configuration.html)
-  - virtual
+  - virtualization
 - [Virtual Machines with libvirt and Networking](https://paedubucher.ch/articles/2020-08-01-virtual-machines-with-libvirt-and-networking.html)
-  - virtual
+  - virtualization
 - [An Overview of QEMU Storage Features](https://www.qemu.org/2020/09/14/qemu-storage-overview/)
 - [Using virtio-fs on a unikernel](https://www.qemu.org/2020/11/04/osv-virtio-fs/)
 - [Red Hat Ceph Storage 5: Introducing Cephadm](https://www.redhat.com/en/blog/red-hat-ceph-storage-5-introducing-cephadm)
@@ -194,9 +194,9 @@ categories: link
   - slide, shiftfs, user namespace
 - [offlineimap + mutt = how to deal with LKML](https://aishpant.dev/blog/mailing-lists/)
 - [Getting started with socat, a multipurpose relay tool for Linux](https://www.redhat.com/sysadmin/getting-started-socat)
-  - virtual, virtio
+  - virtualization, virtio
 - [Configuring virtio-blk and virtio-scsi Devices](https://www.qemu.org/2021/01/19/virtio-blk-scsi-configuration/)
-  - virtual, virtio
+  - virtualization, virtio
 - [Cleaning Up Unused Flatpak Runtimes](https://blogs.gnome.org/mwleeds/2021/01/11/cleaning-up-unused-flatpak-runtimes/)
 - [How to set up SSH dynamic port forwarding on Linux](https://www.redhat.com/sysadmin/ssh-dynamic-port-forwarding)
   - proxy
@@ -206,7 +206,7 @@ categories: link
 - [Explore binaries using this full-featured Linux tool](https://opensource.com/article/21/1/linux-radare2)
   - radare2, assembly
 - [Firecracker: start a VM in less than a second](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/)
-  - containers, virtual
+  - containers, virtualization
 - [Go embed 简明教程](https://colobu.com/2021/01/17/go-embed-tutorial/)
   - golang
 - [Introducing Merkle DAGs](https://proto.school/merkle-dags)
@@ -219,10 +219,17 @@ categories: link
   - dog250, network
 - [From Docker Compose to Kubernetes with Podman](https://www.redhat.com/sysadmin/compose-kubernetes-podman)
 - [Inception: How usable are nested KVM guests?](https://www.redhat.com/en/blog/inception-how-usable-are-nested-kvm-guests)
-  - virtual
+  - virtualization
 - [All you need to know about KVM userspace](https://www.redhat.com/en/blog/all-you-need-know-about-kvm-userspace)
-  - virtual
+  - virtualization
 - [QEMU Live Update](https://blogs.oracle.com/linux/qemu-live-update)
-  - virtual
+  - virtualization
 - [Multiprocess QEMU: Breaking up is hard to do](https://blogs.oracle.com/linux/multiprocess-qemu-at-last)
-  - virtual
+  - virtualization
+- [Visualizing system performance with RHEL 8 using Performance Co-Pilot (PCP) and Grafana (Part 2)](https://www.redhat.com/en/blog/visualizing-system-performance-rhel-8-using-performance-co-pilot-pcp-and-grafana-part-2)
+- [How to detect sudo’s CVE-2021-3156 using Falco](https://sysdig.com/blog/cve-2021-3156-sudo-falco/)
+- [Static analysis updates in GCC 11](https://developers.redhat.com/blog/2021/01/28/static-analysis-updates-in-gcc-11/)
+  - compiler
+- [Resource limits in user namespaces](https://lwn.net/Articles/842842/)
+- [Leveraging virtio-vsock in the cloud and containers](https://fosdem.org/2021/schedule/event/vai_virtio_vsock/)
+   virtualization

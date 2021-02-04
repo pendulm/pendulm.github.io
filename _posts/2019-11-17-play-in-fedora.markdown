@@ -78,6 +78,13 @@ dnf provides *netem*
 # install java # see: https://docs.fedoraproject.org/en-US/quick-docs/installing-java/
 dnf install java-1.8.0-openjdk-devel
 
+# install dev package
+# [Fedora Updates System](https://bodhi.fedoraproject.org/)
+# [Fedora Copr](https://copr.fedorainfracloud.org/coprs/)
+sudo dnf update --refresh --enablerepo=updates-testing podman
+
+
+
 {% endhighlight %}
 
 dnf configuration example

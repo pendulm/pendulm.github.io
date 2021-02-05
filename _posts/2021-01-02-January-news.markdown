@@ -218,6 +218,11 @@ categories: link
 - [谁动了你的五元组-nf_conntrack与NAT的性能](https://blog.csdn.net/dog250/article/details/112506797)
   - dog250, network
 - [From Docker Compose to Kubernetes with Podman](https://www.redhat.com/sysadmin/compose-kubernetes-podman)
+  - podman 3.0
+- [Using Podman and Docker Compose](https://www.redhat.com/sysadmin/podman-docker-compose)
+  - podman 3.0
+- [DockerとPodmanの比較](https://www.slideshare.net/AkihiroSuda/dockerpodman)
+  - podman 3.0
 - [Inception: How usable are nested KVM guests?](https://www.redhat.com/en/blog/inception-how-usable-are-nested-kvm-guests)
   - virtualization
 - [All you need to know about KVM userspace](https://www.redhat.com/en/blog/all-you-need-know-about-kvm-userspace)

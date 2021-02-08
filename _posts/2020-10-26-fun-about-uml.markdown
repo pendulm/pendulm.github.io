@@ -15,5 +15,7 @@ categories: linux
 - [How to Build a Netboot Server, Part 1](https://fedoramagazine.org/how-to-build-a-netboot-server-part-1/)
 - [Portable Services Introduction](https://systemd.io/PORTABLE_SERVICES/)
 - [Container technologies in Fedora: systemd-nspawn](https://fedoramagazine.org/container-technologies-fedora-systemd-nspawn/)
+- [Getting Started with User-Mode Linux - Part 1](https://blog.golawski.it/posts/06-12-2020/getting-started-with-user-mode-linux-part-1)
+- [User Mode Linux 5.2](https://www.researchut.com/blog/user-mode-linux-52/)
 
 

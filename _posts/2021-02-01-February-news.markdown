@@ -24,3 +24,15 @@ categories: link
   - mentality
 - [Jootsing: the art of jumping out of the system](https://nesslabs.com/jootsing-jumping-out-of-the-system)
   - mentality, innovation
+- [Automating IP Address Management with Red Hat Ansible and Infoblox](https://www.redhat.com/en/blog/automating-ip-address-management-red-hat-ansible-and-infoblox)
+  - ipam
+- [Deliver your applications to edge and IoT devices in rootless containers](https://developers.redhat.com/blog/2021/02/03/deliver-your-applications-to-edge-and-iot-devices-in-rootless-containers/)
+  - systemd, ansible
+- [Visualizing System Performance with RHEL 8 Part 3: Kernel Metric Graphing with Performance Co-Pilot, Grafana, and Bpftrace](https://www.redhat.com/en/blog/visualizing-system-performance-rhel-8-part-3-kernel-metric-graphing-performance-co-pilot-grafana-and-bpftrace)
+  - pcp
+- [Inexpensive highly available LXD cluster: Introduction](https://stgraber.org/2020/12/15/inexpensive-highly-available-lxd-cluster-introduction/)
+  - homelab
+- [Inexpensive highly available LXD cluster: Redundancy](https://stgraber.org/2020/12/16/inexpensive-highly-available-lxd-cluster-redundancy/)
+  - homelab
+- [Inexpensive highly available LXD cluster: Server setup](https://stgraber.org/2020/12/18/inexpensive-highly-available-lxd-cluster-server-setup/)
+  - homelab

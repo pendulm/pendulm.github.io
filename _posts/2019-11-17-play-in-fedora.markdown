@@ -84,6 +84,10 @@ dnf install java-1.8.0-openjdk-devel
 sudo dnf update --refresh --enablerepo=updates-testing podman
 
 
+# something like debootstrap
+dnf install --installroot=(pwd) --releasever=33 @core
+
+
 
 {% endhighlight %}
 

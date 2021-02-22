@@ -36,3 +36,92 @@ categories: link
   - homelab
 - [Inexpensive highly available LXD cluster: Server setup](https://stgraber.org/2020/12/18/inexpensive-highly-available-lxd-cluster-server-setup/)
   - homelab
+- [How to activate no-cost RHEL subscription](http://miroslav.suchy.cz/blog/archives/2021/02/08/how_to_activate_no-cost_rhel_subscription/index.html)
+  - rhel, redhat
+- [Capturing network traffic in an eXpress Data Path (XDP) environment](https://www.redhat.com/en/blog/capturing-network-traffic-express-data-path-xdp-environment)
+  - ebpf
+- [Facebook 集群调度管理系统 · OSDI 2020](https://draveness.me//papers-twine)
+  - k8s, scheduler, paper
+- [数据中心的容错时钟对时 · OSDI 2020](https://draveness.me//papers-sundial)
+  - ntp, paper, idc
+- [数据中心的电力超售 · OSDI 2020](https://draveness.me//papers-thunderbolt)
+  - paper,idc
+- [以单件方式创建和获取数据库实例](https://tonybai.com/2021/02/09/create-and-get-db-access-instance-through-singleton/)
+  - golang
+- [autokey/autokey: AutoKey, a desktop automation utility for Linux and X11.](https://github.com/autokey/autokey)
+  - desktop
+- [Improve your productivity with this Linux automation tool](https://opensource.com/article/21/2/linux-autokey)
+  - autokey
+- [Emoji Table](https://unicodey.com/emoji-data/table.htm)
+  - unicode
+- [Use Mac-style emoji on Linux](https://opensource.com/article/21/2/emoji-linux)
+- [Convert audio files with this versatile Linux command](https://opensource.com/article/20/2/linux-sox)
+  - music
+- [Add search to Hugo static sites with Lunr](https://victoria.dev/blog/add-search-to-hugo-static-sites-with-lunr/)
+- [Custom user mappings in LXD containers](https://stgraber.org/2017/06/15/custom-user-mappings-in-lxd-containers/)
+  - user namespace
+- [Understanding Multipath TCP: High availability for endpoints and the networking highway of the futur](https://www.redhat.com/en/blog/understanding-multipath-tcp-networking-highway-future)
+- [Podman volumes and SELinux](https://blog.christophersmart.com/2021/01/31/podman-volumes-and-selinux/)
+- [Run your own LXD demo server](https://stgraber.org/2017/03/05/run-your-own-lxd-demo-server/)
+- [USB hotplug with LXD containers](https://stgraber.org/2017/03/27/usb-hotplug-with-lxd-containers/)
+- [NVidia CUDA inside a LXD container](https://stgraber.org/2017/03/21/cuda-in-lxd/)
+- [LXC 1.0: Blog post series](https://stgraber.org/2013/12/20/lxc-1-0-blog-post-series/)
+- [LXD 2.0: Blog post series](https://stgraber.org/2016/03/11/lxd-2-0-blog-post-series-012/)
+- [Kubernetes Networking & Load-Balancing with Cilium and F5](https://cilium.io/blog/2021/01/29/how-to-build-k8s-networking-with-f5-and-cilium)
+  - bgp
+- [Detecting MITRE ATT&CK: Defense evasion techniques with Falco](https://sysdig.com/blog/mitre-defense-evasion-falco/)
+  - security, disable service
+- [Using the Multus CNI in OpenShift](https://www.openshift.com/blog/using-the-multus-cni-in-openshift)
+  - linux, networking
+- [Nested OpenShift using OpenShift Virtualization](https://www.openshift.com/blog/nested-openshift-using-openshift-virtualization)
+- [Thanos Querier Versus Thanos Querier](https://www.openshift.com/blog/thanos-querier-versus-thanos-querier)
+  - logging, prometheus
+- [Real-time monitoring of Formula 1 telemetry data on Kubernetes with Grafana, Apache Kafka, and Strimzi](https://grafana.com/blog/2021/02/02/real-time-monitoring-of-formula-1-telemetry-data-on-kubernetes-with-grafana-apache-kafka-and-strimzi/)
+- [How I monitor my OpenWrt router with Grafana Cloud and Prometheus](https://grafana.com/blog/2021/02/09/how-i-monitor-my-openwrt-router-with-grafana-cloud-and-prometheus/)
+- [Auto-instrumenting a Java Spring Boot application for traces and logs using OpenTelemetry and Grafana Tempo](https://grafana.com/blog/2021/02/03/auto-instrumenting-a-java-spring-boot-application-for-traces-and-logs-using-opentelemetry-and-grafana-tempo/)
+- [PPT: 用排版梳理逻辑关系](https://sspai.com/post/64937)
+- [The Nirvana fallacy: when perfectionism leads to unrealistic solutions](https://nesslabs.com/nirvana-fallacy)
+  - mindset
+- [The Great Gatsby: The world's most misunderstood novel](https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel)
+- [Rule of Separation: Policy & Mechanism](https://codefaster.substack.com/p/rule-of-separation)
+- [project hydro](https://hydro-project.github.io/)
+  - serverless, paper, research
+- [felixge/go-profiler-notes: My notes on the various go profiling methods that are available.](https://github.com/felixge/go-profiler-notes)
+- [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/)
+- [Turning an old Amazon Kindle into a eink development platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/)
+  - hareware
+- [Scripting tmux ](https://www.arp242.net/tmux.html)
+- [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
+- [Tmux Tutorial](https://leimao.github.io/blog/Tmux-Tutorial/)
+- [tmux in practice: a series of tutorials on how to use tmux, the powerful virtual server multiplexer](https://medium.com/free-code-camp/tmux-in-practice-series-of-posts-ae34f16cfab0)
+- [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read)
+- [flameshot-org/flameshot: Powerful yet simple to use screenshot software 🖥️ 📸](https://github.com/flameshot-org/flameshot#installation)
+  - github
+- [How we hosted FOSDEM 2021 on Matrix](https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix)
+- [Kata Container And GVisor With K0s](https://medium.com/better-programming/kata-container-and-gvisor-with-k0s-82efbbcc240b)
+  - cloudnative
+- [Installing Nextcloud 20 on Fedora Linux with Podman](https://fedoramagazine.org/nextcloud-20-on-fedora-linux-with-podman/)
+  - selfhost
+- [Network address translation part 2 – the conntrack tool](https://fedoramagazine.org/network-address-translation-part-2-the-conntrack-tool/)
+  - iptable, nft
+- [Running Nomad for home server](https://mrkaran.dev/posts/home-server-nomad/)
+  - selfhost, hashcorp
+- [Kubernetes Failure Stories](https://k8s.af/)
+  - cloudnative, reference
+- [The Evolution of File Descriptor Monitoring in Linux](https://blog.vmsplice.net/2021/02/video-and-slides-available-for.html)
+  - linux, syscall, select, pool, epool, io_uring, fosdem
+- [How to manage Linux container registries](https://www.redhat.com/sysadmin/manage-container-registries)
+  - podman
+- [Handling secrets in your Ansible playbooks](https://www.redhat.com/sysadmin/ansible-playbooks-secrets)
+  - vault
+- [DevSecOps: Image scanning in your pipelines using quay.io scanner](https://www.redhat.com/sysadmin/using-quayio-scanner)
+  - security
+- [Use cloud-init to build LXD/LXC containers](https://sudoedit.com/lxd-cloud-init/)
+- [A Guide to systemd journal Maintenance With Examples](https://www.debugpoint.com/2021/01/systemd-journald-clean/)
+- [How to create a TLS/SSL certificate with a Cert-Manager Operator on OpenShift](https://www.redhat.com/sysadmin/cert-manager-operator-openshift)
+  - k8s
+- [Sysadmin hardware: Considerations for planning a PC build](https://www.redhat.com/sysadmin/planning-pc-build)
+  - homelab
+- [Move your Linux from legacy BIOS to UEFI in place with minimal downtime](https://www.redhat.com/sysadmin/bios-uefi)
+- [Get started with RHEL for Edge](https://www.redhat.com/en/blog/get-started-rhel-edge)
+  - image builder

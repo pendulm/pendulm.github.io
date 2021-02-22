@@ -113,6 +113,9 @@ see: https://github.com/flathub/org.telegram.desktop/issues/63
 ### use flatpak in toolbox
 see: https://github.com/containers/toolbox/issues/147
 
+### use vscode golang extension in flatpak
+https://github.com/flathub/com.visualstudio.code/blob/master/flatpak-warning.txt
+
 ## Debug
 
 ### enable kdump

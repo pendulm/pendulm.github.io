@@ -81,6 +81,7 @@ dnf install java-1.8.0-openjdk-devel
 # install dev package
 # [Fedora Updates System](https://bodhi.fedoraproject.org/)
 # [Fedora Copr](https://copr.fedorainfracloud.org/coprs/)
+# [Fedora Package Source](https://src.fedoraproject.org/)
 sudo dnf update --refresh --enablerepo=updates-testing podman
 
 

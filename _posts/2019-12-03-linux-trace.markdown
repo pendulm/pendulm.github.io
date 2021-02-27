@@ -63,3 +63,8 @@ SEE MORE: [bpftrace git doc](https://github.com/iovisor/bpftrace/tree/master/doc
 - [GDB and SystemTap Probes -- part 2](https://blog.sergiodj.net/2012/10/27/gdb-and-systemtap-probes-part-2.html)
 - [GDB and SystemTap Probes -- part 3](https://blog.sergiodj.net/2012/11/02/gdb-and-systemtap-probes-part-3.html)
 
+
+# Systemd
+- [How to access global kernel struct](https://sourceware.org/systemtap/SystemTap_Beginners_Guide/targetvariables.html)
+- [SystemTap Cheat Sheet](https://github.com/calio/systemtap-cheat-sheet)
+

@@ -102,6 +102,7 @@ categories: link
   - cloudnative
 - [Installing Nextcloud 20 on Fedora Linux with Podman](https://fedoramagazine.org/nextcloud-20-on-fedora-linux-with-podman/)
   - selfhost
+- [Network address translation part 1 – packet tracing](https://fedoramagazine.org/network-address-translation-part-1-packet-tracing/)
 - [Network address translation part 2 – the conntrack tool](https://fedoramagazine.org/network-address-translation-part-2-the-conntrack-tool/)
   - iptable, nft
 - [Running Nomad for home server](https://mrkaran.dev/posts/home-server-nomad/)
@@ -125,3 +126,40 @@ categories: link
 - [Move your Linux from legacy BIOS to UEFI in place with minimal downtime](https://www.redhat.com/sysadmin/bios-uefi)
 - [Get started with RHEL for Edge](https://www.redhat.com/en/blog/get-started-rhel-edge)
   - image builder
+- [how to mount overlay in UserNS](https://lore.kernel.org/linux-unionfs/20210211165616.GD5014@redhat.com/T/#t)
+- [idmapped mounts](https://lore.kernel.org/containers/20210127054000.GA30832@mail.hallyn.com/T/#t)
+- [Rootless podman containers under system accounts, managed and enabled at boot with systemd](https://blog.christophersmart.com/2021/02/20/rootless-podman-containers-under-system-accounts-managed-and-enabled-at-boot-with-systemd/)
+  - selinux
+- [从 Go 的二进制文件中获取其依赖的模块信息](https://moelove.info/2021/02/17/%E4%BB%8E-Go-%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%96%87%E4%BB%B6%E4%B8%AD%E8%8E%B7%E5%8F%96%E5%85%B6%E4%BE%9D%E8%B5%96%E7%9A%84%E6%A8%A1%E5%9D%97%E4%BF%A1%E6%81%AF/)
+  - elf
+- [Use btrfs compression in Fedora 33](https://lukas.zapletalovi.com/2021/02/use-btrfs-compression-in-fedora-33.html)
+- [Sharing supplemental groups with Podman containers](https://www.redhat.com/sysadmin/supplemental-groups-podman-containers)
+- [Developing With The Flatpak CLI](https://blogs.gnome.org/christopherdavis/2021/02/16/developing-with-the-flatpak-cli/)
+- [贴标签是信息管理的有效方式吗？](https://sspai.com/post/65037)
+  - efficient, roam research
+- [Calico and Submariner Integration: A Hands-on Walkthrough](https://www.projectcalico.org/calico-and-submariner-integration-a-hands-on-walkthrough/)
+  - k8s, cni, network
+- [Sysprof and Podman](https://blogs.gnome.org/chergert/2021/02/25/sysprof-and-podman/)
+  - perf
+- [How to use Sysprof to…](https://blogs.gnome.org/chergert/2020/03/14/how-to-use-sysprof-to/)
+- [How to use Sysprof to… Part II](https://blogs.gnome.org/chergert/2020/03/15/how-to-use-sysprof-to-part-ii/)
+- [Debuginfod project update: New clients and metrics](https://developers.redhat.com/blog/2021/02/25/debuginfod-project-update-new-clients-and-metrics/)
+  - gdb, elf
+- [debuginfod: get debugging data + sources easily](https://devconfcz2021.sched.com/event/gmL6/debuginfod-get-debugging-data-sources-easily)
+- [Fedora Wiki: StackTraces](https://fedoraproject.org/wiki/StackTraces)
+  - debuginfo
+- [How the oc debug command works in OpenShift](https://www.redhat.com/sysadmin/how-oc-debug-works)
+  - kubuctl, debug
+- [Synchronize your 2FA Gmail with mbsync](https://frostyx.cz/posts/synchronize-your-2fa-gmail-with-mbsync)
+- [How-to: Writing a C shared library in rust](http://blog.asleson.org/2021/02/23/how-to-writing-a-c-shared-library-in-rust/)
+  - abi
+- [Verify package GPG signature using DNSSEC](http://miroslav.suchy.cz/blog/archives/2021/02/11/verify_package_gpg_signature_using_dnssec/index.html)
+- [How to get ILI9486 Raspberry Pi 3.5" LCD to work with Fedora ARM](https://blog.kagesenshi.org/2021/02/ili9486-rpi-fedora-arm.html)
+- [security things in Linux v5.8](https://outflux.net/blog/archives/2021/02/08/security-things-in-linux-v5-8/)
+- [What do you want to learn today ?](https://aquadzn.github.io/learn-x-by-doing-y/)
+  - diy
+- [Designing a Game Engine for Beginners](https://erik-engheim.medium.com/designing-a-game-engine-for-kids-3bfca2d01012)
+- [Wayland support (and more) for Emacs](https://lwn.net/Articles/843896/)
+  - lwn
+- [GUIDE: Fedora Gnome Minimal Install](https://www.reddit.com/r/Fedora/comments/lobnfm/guide_fedora_gnome_minimal_install/)
+- [Is there a workaround for using dnf with slow and unstable connections?](https://www.reddit.com/r/Fedora/comments/log7u8/is_there_a_workaround_for_using_dnf_with_slow_and/)

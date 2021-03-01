@@ -163,3 +163,4 @@ categories: link
   - lwn
 - [GUIDE: Fedora Gnome Minimal Install](https://www.reddit.com/r/Fedora/comments/lobnfm/guide_fedora_gnome_minimal_install/)
 - [Is there a workaround for using dnf with slow and unstable connections?](https://www.reddit.com/r/Fedora/comments/log7u8/is_there_a_workaround_for_using_dnf_with_slow_and/)
+

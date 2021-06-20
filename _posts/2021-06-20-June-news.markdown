@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "2021 June News"
+date:   2021-06-20 21:17:00
+categories: link
+---
+[Systemd Timers for Scheduling Tasks - Fedora Magazine](https://fedoramagazine.org/systemd-timers-for-scheduling-tasks/)
+[Using files and devices in Podman rootless containers | Enable Sysadmin](https://www.redhat.com/sysadmin/files-devices-podman)
+[Set up a .NET development environment - Fedora Magazine](https://fedoramagazine.org/set-up-a-net-development-environment/)
+[Network address translation part 4 - Conntrack troubleshooting - Fedora Magazine](https://fedoramagazine.org/network-address-translation-part-4-conntrack-troubleshooting/)
+[How to debug issues with volumes mounted on rootless containers | Enable Sysadmin](https://www.redhat.com/sysadmin/debug-rootless-podman-mounted-volumes)
+[浅谈pprof | 火丁笔记](https://blog.huoding.com/2021/06/06/917)
+[The Wondrous World of Discoverable GPT Disk Images](http://0pointer.net/blog/the-wondrous-world-of-discoverable-gpt-disk-images.html)
+[File Descriptor Limits](http://0pointer.net/blog/file-descriptor-limits.html)
+[Prometheus vector matching rules visualized](https://iximiuz.com/en/posts/prometheus-vector-matching/)
+[Introduction - Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+ - tutorial
+[高品质音乐也能随身听：Apple Music 空间音频和无损音质功能详解 - 少数派](https://sspai.com/post/67278)
+[看看今年的 WWDC 又「干掉」了哪些第三方应用 - 少数派](https://sspai.com/post/67210)

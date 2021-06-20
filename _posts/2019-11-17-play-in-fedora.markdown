@@ -89,6 +89,11 @@ sudo dnf update --refresh --enablerepo=updates-testing podman
 dnf install --installroot=(pwd) --releasever=33 @core
 
 
+# how to disable packagekit
+https://www.reddit.com/r/gnome/comments/gn8rs4/how_to_disable_gnome_software_autostart/
+https://dnf.readthedocs.io/en/latest/automatic.html
+
+
 
 {% endhighlight %}
 

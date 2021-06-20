@@ -65,4 +65,11 @@ systemd-run --scope -p CPUQuota=20% -p MemoryMax=512M stress -m 4
 {% highlight shell %}
 # conver list to object
 echo a b  c d|xargs -n1 | jq -R . | jq  -s '.[]|{"key": ., "value":.}' | jq -s 'from_entries'
+echo a b c d e f| xargs -n2 | jq -R 'split(" ")' | jq   '{(.[0]):.[1]}'
 {% endhighlight %}
+
+
+## Other
+- [greymd/teip: Select partial standard input and replace with the result of another command efficiently](https://github.com/greymd/teip)
+- [greymd/egzact: Generate flexible patterns on the shell](https://github.com/greymd/egzact)
+

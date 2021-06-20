@@ -1,0 +1,111 @@
+---
+layout: post
+title:  "2021 April News"
+date:   2021-04-01 12:48:00
+categories: link
+---
+
+- [giovtorres/kvm-install-vm: Bash script to build local virtual machines using KVM/libvirt and cloud-init.](https://github.com/giovtorres/kvm-install-vm)
+  - github, virtualization
+- [Setting Up a Kernel Debugging Environment :: pwning.systems](https://pwning.systems/posts/setting-up-a-kernel-debugging-environment/)
+  - virtualization, kernel
+-  [6 OpenSSL command options that every sysadmin should know | Enable Sysadmin](https://www.redhat.com/sysadmin/6-openssl-commands)
+  - commandline
+- [Learn yaml in Y Minutes](https://learnxinyminutes.com/docs/yaml/)
+  - refrence
+- [Linux system hardening: adding hidepid to /proc mount point - Linux Audit](https://linux-audit.com/linux-system-hardening-adding-hidepid-to-proc/#hardening-/proc-with-hidepid)
+  - kernel
+- [Pushing commits to a remote repository - GitHub Docs](https://docs.github.com/en/github/getting-started-with-github/pushing-commits-to-a-remote-repository#remotes-and-forks)
+- [Rewriting history Git commit --amend and other methods of rewriting history](https://www.atlassian.com/git/tutorials/rewriting-history)
+- [Kubernetes Lab on Baremetal – Marco Lancini](https://www.marcolancini.it/2021/blog-kubernetes-lab-baremetal/)
+  - k8s, fedora, MetalLB, ingress
+- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)
+  - book
+- [K8s Service Mesh Comparison: Linkerd, Consul, Istio & More | Toptal](https://www.toptal.com/kubernetes/service-mesh-comparison)
+- [magnologan/awesome-k8s-security: A curated list for Awesome Kubernetes Security resources](https://github.com/magnologan/awesome-k8s-security)
+  - github, k8s
+- [ingraind/ingraind: Data first monitoring agent using (e)BPF, built on RedBPF](https://github.com/ingraind/ingraind)
+- [tricksterproxy/trickster: Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator](https://github.com/tricksterproxy/trickster/)
+  - prometheus
+- [Athenz IO - Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures](https://www.athenz.io/)
+  - security, authentication
+- [How to use OpenSSL and the Internet PKI on Linux systems | Enable Sysadmin](https://www.redhat.com/sysadmin/openssl-and-internet-pki)
+- [8 steps to developing an Ansible role in Linux | Enable Sysadmin](https://www.redhat.com/sysadmin/developing-ansible-role)
+- [Shifting left: Davie Street Enterprises implements DevSecOps](https://www.redhat.com/en/blog/shifting-left-davie-street-enterprises-implements-devsecops)
+- [Get started with clang-tidy in Red Hat Enterprise Linux - Red Hat Developer](https://developers.redhat.com/blog/2021/04/06/get-started-with-clang-tidy-in-red-hat-enterprise-linux/)
+  - llvm-toolset
+- [Get started with XDP - Red Hat Developer](https://developers.redhat.com/blog/2021/04/01/get-started-with-xdp/)
+  - bpf
+- [Anthos on Bare Metal | ITNEXT](https://itnext.io/anthos-on-bare-metal-and-akri-managing-leaf-devices-on-edge-kubernetes-clusters-from-cloud-222ff17dd7b8)
+  - k8s, hyberid cloud, MetalLB
+- [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+  - book
+- [Letsencrypt a Fedora server - Lukáš Zapletal](https://lukas.zapletalovi.com/2021/03/letsencrypt-a-fedora-server.html)
+- [Enable serial console for libvirt - Lukáš Zapletal](https://lukas.zapletalovi.com/2021/03/enable-serial-console-in-libvirt.html)
+- [What’s in a snap? | Ubuntu](https://ubuntu.com//blog/whats-in-a-snap)
+- [Tinkerbell - Bare Metal Automation](https://tinkerbell.org/)
+- [Bare Metal in a Cloud Native World – The New Stack](https://thenewstack.io/bare-metal-in-a-cloud-native-world/)
+- [State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)
+- [Compiling Containers - Dockerfiles, LLVM and BuildKit - Docker Blog](https://www.docker.com/blog/compiling-containers-dockerfiles-llvm-and-buildkit/)
+- [How to make a PXE Boot Menu to install Openshift 4.x](https://www.openshift.com/blog/how-to-make-a-pxe-boot-menu-to-install-openshift-4.x)
+- [Metrics-Driven Pod Constraints](https://www.openshift.com/blog/metrics-driven-pod-constraints)
+  - cost, openshift
+- [Surviving The API Storm With API Priority & Fairness](https://www.openshift.com/blog/surviving-the-api-storm-with-api-priority-fairness)
+  - openshift
+- [The Unparalleled Genius of John von Neumann | by Jørgen Veisdal | Cantor’s Paradise](https://www.cantorsparadise.com/the-unparalleled-genius-of-john-von-neumann-791bb9f42a2d)
+  - biography
+- [Intro to exemplars, which enable Grafana Tempo’s distributed tracing at massive scale | Grafana Labs](https://grafana.com/blog/2021/03/31/intro-to-exemplars-which-enable-grafana-tempos-distributed-tracing-at-massive-scale/)
+  - observability
+- [You should know about... these useful Prometheus alerting rules | Grafana Labs](https://grafana.com/blog/2021/04/01/you-should-know-about...-these-useful-prometheus-alerting-rules/)
+- [Rolling Upgrade Worker Nodes in EKS · Shining Moon](https://blog.monsterxx03.com/2021/04/01/rolling-upgrade-worker-nodes-in-eks/)
+- [Building the future of computing, with your help — Martin Kleppmann’s blog](https://martin.kleppmann.com/2021/02/23/patreon.html)
+- [你该如何为 Kubernetes 定制特性 - 面向信仰编程](https://draveness.me//cloud-native-kubernetes-extension)
+- [Troubleshoot WiFi problems with Go and a Raspberry Pi | Opensource.com](https://opensource.com/article/21/3/troubleshoot-wifi-go-raspberry-pi)
+- [Identify Linux performance bottlenecks using open source tools | Opensource.com](https://opensource.com/article/21/3/linux-performance-bottlenecks)
+  - usb speed
+- [Find what changed in a Git commit | Opensource.com](https://opensource.com/article/21/4/git-whatchanged)
+  - git log, git show, git whatchanged
+- [3 reasons I use the Git cherry-pick command | Opensource.com](https://opensource.com/article/21/3/git-cherry-pick)
+- [A practical guide to using the git stash command | Opensource.com](https://opensource.com/article/21/4/git-stash)
+- [Experiment on your code freely with Git worktree | Opensource.com](https://opensource.com/article/21/4/git-worktree)
+- [PodSecurityPolicy Deprecation: Past, Present, and Future | Kubernetes](https://kubernetes.io/blog/2021/04/06/podsecuritypolicy-deprecation-past-present-and-future/)
+- [The Flink Ecosystem: A Quick Start to PyFlink - Alibaba Cloud Community](https://www.alibabacloud.com/blog/the-flink-ecosystem-a-quick-start-to-pyflink_596150)
+- [Using kube-rbac-proxy to secure Kubernetes workloads – Frederic Branczyk – Software Developer at CoreOS](https://brancz.com/2018/02/27/using-kube-rbac-proxy-to-secure-kubernetes-workloads/)
+  - k8s, authentication, authrization, authz
+- [What's new in Kubernetes 1.21? - New features and deprecations | Sysdig](https://sysdig.com/blog/whats-new-kubernetes-1-21/)
+- [Raw Manifests, Helm, Kustomize. Several ways to deploy an application in Kubernetes](https://itnext.io/k8s-tips-manifests-helm-kustomize-12f72f878022)
+  - k8s
+- [Introduction to kustomize - Speaker Deck](https://speakerdeck.com/spesnova/introduction-to-kustomize?slide=104)
+- [How the Cortex and Thanos projects collaborate to make scaling Prometheus better for all | Grafana Labs](https://grafana.com/blog/2020/07/16/how-the-cortex-and-thanos-projects-collaborate-to-make-scaling-prometheus-better-for-all/)
+- [Big Prometheus - Monitoring Monitoring](https://monitoring2.substack.com/p/big-prometheus)
+  - comparision
+- [Big Prometheus: Thanos, Cortex, M3DB and VictoriaMetrics at Scale | Hacker News](https://news.ycombinator.com/item?id=21995942)
+- [Resource Metrics API (metrics-server) · Issue #398 · kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind/issues/398)
+- [Introducing Thanos: Prometheus at scale – Improbable](https://www.improbable.io/blog/thanos-prometheus-at-scale)
+- [Two Households, Both Alike in Dignity: Cortex and Thanos | Grafana Labs](https://grafana.com/blog/2019/11/21/promcon-recap-two-households-both-alike-in-dignity-cortex-and-thanos/)
+- [How to make your first snap | Ubuntu](https://ubuntu.com//blog/how-to-make-your-first-snap)
+- [PromLabs | Blog - What's New in Prometheus 2.26?](https://promlabs.com/blog/2021/04/01/whats-new-in-prometheus-2-26)
+- [How we use metamonitoring Prometheus servers to monitor all other Prometheus servers at Grafana Labs | Grafana Labs](https://grafana.com/blog/2021/04/08/how-we-use-metamonitoring-prometheus-servers-to-monitor-all-other-prometheus-servers-at-grafana-labs/)
+- [Introducing the ApplicationSet Controller for Argo CD | by Jonathan West | Apr, 2021 | Argo Project](https://blog.argoproj.io/introducing-the-applicationset-controller-for-argo-cd-982e28b62dc5)
+- [[KubeCon + CloudNativeCon EU recap] Getting some Thanos into Cortex while scaling Prometheus | Grafana Labs](https://grafana.com/blog/2020/08/19/kubecon-cloudnativecon-eu-recap-getting-some-thanos-into-cortex-while-scaling-prometheus/)
+- [How to Get Blazin' Fast PromQL | Grafana Labs](https://grafana.com/blog/2019/09/19/how-to-get-blazin-fast-promql/)
+- [How to Build eBPF Programs with libbpfgo](https://blog.aquasec.com/libbpf-ebpf-programs)
+- [深入 Go 并发原语 — Channel 底层实现 halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field/blob/master/contents/Go/go_channel.md)
+- [K8s Tips: Playing With Nodes. Get familiar with some key concepts of… | by Luc Juggery | Feb, 2021 | Better Programming](https://betterprogramming.pub/k8s-tips-playing-with-nodes-e6645af13a27)
+- [K8s: Network Policy Made Simple With Cilium Editor | by Luc Juggery | Feb, 2021 | Better Programming](https://betterprogramming.pub/k8s-network-policy-made-simple-with-cilium-editor-a5b55781291c)
+- [Speed of Rust vs C](https://kornel.ski/rust-c-speed)
+- [Kubernetes cAdvisor: Native Monitoring and Metrics](https://rancher.com/blog/2019/native-kubernetes-monitoring-tools-part-1/)
+- [Thermal tweaks on DELL laptops running linux | by mijorus | Medium](https://mijorus.medium.com/thermal-tweaks-on-dell-laptops-running-linux-769c8c80022e)
+- [Helm | Labels and Annotations](https://helm.sh/docs/chart_best_practices/labels/)
+- [Kubernetes Pod Security Policy Deprecation: All You Need to Know](https://blog.aquasec.com/kubernetess-policy)
+- [npm vs npx — What’s the Difference?](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
+- [How to troubleshoot remote write issues in Prometheus | Grafana Labs](https://grafana.com/blog/2021/04/12/how-to-troubleshoot-remote-write-issues-in-prometheus/)
+- [Lightweight JVM Diagnostics Tools and Containers - DZone Java](https://dzone.com/articles/lightweight-jvm-diagnostics-tools-and-containers)
+- [入门科普，围绕JVM的各种外挂技术 - 一天不进步，就是退步 - 博客园](https://www.cnblogs.com/davidwang456/articles/9553939.html)
+- [vipshop/vjtools: The vip.com's java coding standard, libraries and tools](https://github.com/vipshop/vjtools)
+- [JVM Garbage Collectors | Baeldung](https://www.baeldung.com/jvm-garbage-collectors)
+  - cms, g1
+- [理解并应用JVM垃圾收集器-ZGC - 知乎](https://zhuanlan.zhihu.com/p/105921339)
+- [Use the DNF local plugin to speed up your home lab - Fedora Magazine](https://fedoramagazine.org/use-the-dnf-local-plugin-to-speed-up-your-home-lab/)
+- [Docker without Docker · Fly](https://fly.io/blog/docker-without-docker/)
+- [An Interview With Linus Torvalds: Linux and Git | Tag1 Consulting](https://www.tag1consulting.com/blog/interview-linus-torvalds-linux-and-git)

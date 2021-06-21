@@ -9,7 +9,7 @@ categories: link
 - [Set up a .NET development environment - Fedora Magazine](https://fedoramagazine.org/set-up-a-net-development-environment/)
 - [Network address translation part 4 - Conntrack troubleshooting - Fedora Magazine](https://fedoramagazine.org/network-address-translation-part-4-conntrack-troubleshooting/)
 - [How to debug issues with volumes mounted on rootless containers](https://www.redhat.com/sysadmin/debug-rootless-podman-mounted-volumes)
-- [浅谈pprof | 火丁笔记](https://blog.huoding.com/2021/06/06/917)
+- [浅谈pprof 火丁笔记](https://blog.huoding.com/2021/06/06/917)
 - [The Wondrous World of Discoverable GPT Disk Images](http://0pointer.net/blog/the-wondrous-world-of-discoverable-gpt-disk-images.html)
 - [File Descriptor Limits](http://0pointer.net/blog/file-descriptor-limits.html)
 - [Prometheus vector matching rules visualized](https://iximiuz.com/en/posts/prometheus-vector-matching/)

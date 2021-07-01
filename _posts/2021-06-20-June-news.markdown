@@ -17,3 +17,29 @@ categories: link
   - tutorial
 - [高品质音乐也能随身听：Apple Music 空间音频和无损音质功能详解 - 少数派](https://sspai.com/post/67278)
 - [看看今年的 WWDC 又「干掉」了哪些第三方应用 - 少数派](https://sspai.com/post/67210)
+- [為什麼你們就是不能加個空格呢？盤古之白拯救你的強迫症！](https://www.jkg.tw/p3601/)
+- [Workers Durable Objects Beta: A New Approach to Stateful Serverless](https://blog.cloudflare.com/introducing-workers-durable-objects/)
+  - serverless
+- [Building Waiting Room on Workers and Durable Objects](https://blog.cloudflare.com/building-waiting-room-on-workers-and-durable-objects/)
+- [How to Build a Portfolio Website with React](https://www.freecodecamp.org/news/build-portfolio-website-react/)
+  - Tailwind CSS, serverless
+- [How the CSS Position Property Works – Explained with Code Examples](https://www.freecodecamp.org/news/css-position-property-explained/)
+- [什么是Figma？ 设计速成课程【2021教程】](https://www.freecodecamp.org/news/figma-crash-course/)
+- [深入Go Module之go.mod文件解析 鸟窝](https://colobu.com/2021/06/28/dive-into-go-module-1/)
+- [多吹牛，少写代码 四火的唠叨](https://www.raychase.net/6634)
+- [Next.js 11: The ‘Kubernetes’ of Frontend Development – The New Stack](https://thenewstack.io/next-js-11-the-kubernetes-of-frontend-development/?spm=ata.21736010.0.0.289758d1r1Cg1H)
+- [通过实例理解Go Execution Tracer Tony Bai](https://tonybai.com/2021/06/28/understand-go-execution-tracer-by-example/)
+- [Go Modules Reference - The Go Programming Language](https://golang.org/ref/mod)
+- [Understanding go.mod and go.sum. Getting started with the modules in… | by Janteshital | Jun, 2021 | Medium](https://janteshital.medium.com/understanding-go-mod-and-go-sum-5fd7ec9bcc34)
+- [nikolaydubina/go-recipes: Handy commands to run in Go projects](https://github.com/nikolaydubina/go-recipes)
+  - cheatsheet
+- [Debugging performance issues in Go programs](https://software.intel.com/content/www/us/en/develop/blogs/debugging-performance-issues-in-go-programs.html)
+- [Argo Tunnels that live forever](https://blog.cloudflare.com/argo-tunnels-that-live-forever/)
+  - cloudflared
+- [Automating Cloudflare Tunnel with Terraform](https://blog.cloudflare.com/automating-cloudflare-tunnel-with-terraform/)
+- [diyan/go-web-framework-comparison: Golang Web Framework Comparison](https://github.com/diyan/go-web-framework-comparison)
+- [Go 的隐秘世界：Go 程序的启动和 runtime 初始化 - 知乎](https://zhuanlan.zhihu.com/p/241308426)
+- [Explain to me Go Concurrency Worker Pool Pattern like I’m five](https://itnext.io/explain-to-me-go-concurrency-worker-pool-pattern-like-im-five-e5f1be71e2b0)
+- [Shell Scripting in Rust?](https://itnext.io/shell-scripting-in-rust-2bdb8c738c94)
+- [Detailed explanation of the mechanism of golang escape analysis](https://developpaper.com/detailed-explanation-of-the-mechanism-of-golang-escape-analysis/)
+- [An Introduction to Infrastructure and Application Monitoring | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-infrastructure-and-application-monitoring)

@@ -30,7 +30,7 @@ categories: link
 - [Next.js 11: The ‘Kubernetes’ of Frontend Development – The New Stack](https://thenewstack.io/next-js-11-the-kubernetes-of-frontend-development/?spm=ata.21736010.0.0.289758d1r1Cg1H)
 - [通过实例理解Go Execution Tracer Tony Bai](https://tonybai.com/2021/06/28/understand-go-execution-tracer-by-example/)
 - [Go Modules Reference - The Go Programming Language](https://golang.org/ref/mod)
-- [Understanding go.mod and go.sum. Getting started with the modules in… | by Janteshital | Jun, 2021 | Medium](https://janteshital.medium.com/understanding-go-mod-and-go-sum-5fd7ec9bcc34)
+- [Understanding go.mod and go.sum](https://janteshital.medium.com/understanding-go-mod-and-go-sum-5fd7ec9bcc34)
 - [nikolaydubina/go-recipes: Handy commands to run in Go projects](https://github.com/nikolaydubina/go-recipes)
   - cheatsheet
 - [Debugging performance issues in Go programs](https://software.intel.com/content/www/us/en/develop/blogs/debugging-performance-issues-in-go-programs.html)
@@ -42,4 +42,5 @@ categories: link
 - [Explain to me Go Concurrency Worker Pool Pattern like I’m five](https://itnext.io/explain-to-me-go-concurrency-worker-pool-pattern-like-im-five-e5f1be71e2b0)
 - [Shell Scripting in Rust?](https://itnext.io/shell-scripting-in-rust-2bdb8c738c94)
 - [Detailed explanation of the mechanism of golang escape analysis](https://developpaper.com/detailed-explanation-of-the-mechanism-of-golang-escape-analysis/)
-- [An Introduction to Infrastructure and Application Monitoring | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-infrastructure-and-application-monitoring)
+- [An Introduction to Infrastructure and Application Monitoring](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-infrastructure-and-application-monitoring)
+- [(4) What’s new in React 18 - YouTube](https://www.youtube.com/watch?v=bpVRWrrfM1M)

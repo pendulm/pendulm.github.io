@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "2021 July News"
+date:   2021-07-06 17:38:00
+categories: link
+---
+- [迈入现代 Web 开发（GMTC 2021 演讲《字节跳动的现代 Web 开发实践》全文）](https://mp.weixin.qq.com/s/0VDBAgEvqB1xiUs540Fu9A)
+- [How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot](https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/)
+- [了解如何在 Figma 中创建设计系统](https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/)
+- [How to Deploy an NLP Model with FastAPI](https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/)
+- [What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site](https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/)
+- [Why NVMe Is a Better Choice for Your Data Center – The New Stack](https://thenewstack.io/why-nvme-is-a-better-choice-for-your-data-center/)
+- [Cost Overruns Rank Low on List of Challenges for Kubernetes and Containers – The New Stack](https://thenewstack.io/cost-overruns-rank-low-on-list-of-challenges-for-kubernetes-and-containers/)
+- [Securing Istio Workloads with Auth0 – The New Stack](https://thenewstack.io/securing-istio-workloads-with-auth0/)
+- [3 Phases to a Safe and Successful Cloud Migration – The New Stack](https://thenewstack.io/3-phases-to-a-safe-and-successful-cloud-migration/)
+- [Install Calico to Enhance Kubernetes’ Built-in Networking Capability – The New Stack](https://thenewstack.io/install-calico-to-enhance-kubernetes-built-in-networking-capability/)
+- [How to use Podman inside of a container Enable Sysadmin](https://www.redhat.com/sysadmin/podman-inside-container)
+- [How to use Podman inside of Kubernetes  Enable Sysadmin](https://www.redhat.com/sysadmin/podman-inside-kubernetes)
+- [Feed me up, Scotty!](https://feed-me-up-scotty.vincenttunru.com/)
+- [Bash Function Names Can Be Almost Anything](https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/)
+- [Python Best Practices for a New Project in 2021 - Alex Mitelman](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
+- [Everything Useful I Know About kubectl — Atomic Commits](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/)
+- [Measuring memory usage in Python: it’s tricky!](https://pythonspeed.com/articles/measuring-memory-python/)
+- [How To Add eBPF Observability To Your Product](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html)

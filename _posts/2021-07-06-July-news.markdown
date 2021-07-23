@@ -81,3 +81,7 @@ categories: link
 - [Rancher Desktop – An Open Source App for Desktop Kubernetes and Container Management](https://rancher.com/blog/2021/rancher-desktop-an-open-source-app-for-desktop-kubernetes-and-container-management/)
 - [How the JIT compiler boosts Java performance in OpenJDK - Red Hat Developer](https://developers.redhat.com/articles/2021/06/23/how-jit-compiler-boosts-java-performance-openjdk#deoptimization_and_speculation)
 - [更优雅的 Kubernetes 集群事件度量方案 - MoeLove](https://moelove.info/2021/06/25/%E6%9B%B4%E4%BC%98%E9%9B%85%E7%9A%84-Kubernetes-%E9%9B%86%E7%BE%A4%E4%BA%8B%E4%BB%B6%E5%BA%A6%E9%87%8F%E6%96%B9%E6%A1%88/)
+- [Write your first web component - Opensource.com](https://opensource.com/article/21/7/web-components)
+- [Linux package managers: dnf vs apt - Opensource.com](https://opensource.com/article/21/7/dnf-vs-apt)
+- [Run GitHub Actions on Fedora CoreOS - Fedora Magazine](https://fedoramagazine.org/run-github-actions-on-fedora-coreos/)
+- [Automatic Remediation of Kubernetes Nodes](https://blog.cloudflare.com/automatic-remediation-of-kubernetes-nodes/)

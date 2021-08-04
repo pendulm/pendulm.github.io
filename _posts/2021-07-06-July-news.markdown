@@ -85,3 +85,4 @@ categories: link
 - [Linux package managers: dnf vs apt - Opensource.com](https://opensource.com/article/21/7/dnf-vs-apt)
 - [Run GitHub Actions on Fedora CoreOS - Fedora Magazine](https://fedoramagazine.org/run-github-actions-on-fedora-coreos/)
 - [Automatic Remediation of Kubernetes Nodes](https://blog.cloudflare.com/automatic-remediation-of-kubernetes-nodes/)
+- [实战 CGO - 火丁笔记](https://blog.huoding.com/2021/07/03/924)

@@ -45,3 +45,4 @@ categories: linux
 - [Virtio devices and drivers overview: Who is who](https://www.redhat.com/en/blog/virtio-devices-and-drivers-overview-headjack-and-phone)
 - [OVS-DPDK: Migrating to vhostuser socket mode in Red Hat OpenStack](https://www.redhat.com/en/blog/ovs-dpdk-migrating-vhostuser-socket-mode-red-hat-openstac)
 - [The amazing new observability features of Open vSwitch](https://www.redhat.com/en/blog/amazing-new-observability-features-open-vswitch)
+- [How to create VLAN trunks and access ports for VMs on Linux bridges using NetworkManager (and have them talk) - Just another Linux geek](https://blog.christophersmart.com/2021/07/18/how-to-create-vlan-trunks-and-access-ports-for-vms-on-linux-bridges-using-networkmanager-and-have-them-talk/)

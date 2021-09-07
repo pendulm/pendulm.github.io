@@ -32,4 +32,15 @@ categories: link
 - [Go 泛型尝鲜](https://colobu.com/2021/03/22/try-go-generic/)
 - [Go 2 Generics: Constrained Type Parameters - Google Slides](https://docs.google.com/presentation/d/1OurEtIXVozrYsFKMQQJA-utpDnpGDuKF268ly7RaiCA/edit#slide=id.g71676be9d9_2_30)
 - [golang-design/go2generics: 🧪 A chunk of experiments and demos about Go 2 generics design (type parameter & type set)](https://github.com/golang-design/go2generics)
+- [Using Go Generics. I was pairing with another engineer the… ](https://medium.com/@scott_white/using-go-generics-57fba3edecdd)
+- [Type Parameters Proposal](https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md#Examples)
 - [armosec/kubescape: kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)](https://github.com/armosec/kubescape)
+- [Build a lab in five minutes with three simple commands - Enable Sysadmin](https://www.redhat.com/sysadmin/build-lab-quickly)
+- [Track changes in Excel, Word, PowerPoint, PDFs, Images & Videos with Git](https://tech.marksblogg.com/git-track-changes-in-media-office-documents.html)
+  - diff
+- [My Journey With SerenityOS, So Far 🐞 — Linus Groh](https://linus.dev/posts/my-journey-with-serenityos/)
+- [Programmers Don’t Understand Hash Functions – Dhole Moments](https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/)
+- [JQ Select Explained: Selecting elements from JSON with Examples - Earthly Blog](https://earthly.dev/blog/jq-select/)
+  - commandline
+- [type-challenges/type-challenges: Collection of TypeScript type challenges with online judge](https://github.com/type-challenges/type-challenges)
+- [basarat/typescript-book: The definitive guide to TypeScript and possibly the best TypeScript book . Free and Open Source 🌹](https://github.com/basarat/typescript-book)

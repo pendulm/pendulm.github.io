@@ -22,3 +22,48 @@ categories: link
 - [WimJongeneel/ts-reactive-rendering: A reactive rendering library in TypeScript with a VDOM, stateful components and lifecycle hooks](https://github.com/WimJongeneel/ts-reactive-rendering)
 - [Scheduling Function Calls with Zero Allocation](https://golang.design/research/zero-alloc-call-sched/)
 - [Domain-Driven Hexagonal Architecture for JavaScript / TypeScript Developers](https://javascript.plainenglish.io/domain-driven-hexagon-architecture-568d67ae4dd5)
+- [Advanced network booting for virtual machines](https://www.kraxel.org/blog/2021/09/vm-network-boot/)
+  - qemu
+- [Presenting guest images as raw image files with FUSE - QEMU](https://www.qemu.org/2021/08/22/fuse-blkexport/)
+- [Auto-updating podman containers with systemd - Fedora Magazine](https://fedoramagazine.org/auto-updating-podman-containers-with-systemd/)
+- [Automatically Light Up a Sign When Your Webcam is in Use - Fedora Magazine](https://fedoramagazine.org/automatically-light-up-a-sign-when-your-webcam-is-in-use/)
+- [How to install only security and bugfixes updates with DNF - Fedora Magazine](https://fedoramagazine.org/how-to-install-only-security-and-bugfixes-updates-with-dnf/)
+- [OwlOCR - 支持中文，免费的本地 OCR 文字识别工具[macOS] - 小众软件](https://www.appinn.com/owlocr-for-macos/)
+- [Managing command snippets is hard; but there is hope](https://itnext.io/managing-command-snippets-is-hard-but-there-is-hope-dc6f046759bc)
+  - pet, commandline
+- [Debugging your code in Python — pdb vs. rpdb](https://itnext.io/debugging-your-code-in-python-pdb-vs-rpdb-e7bb918a8ac3)
+- [Morris Chang's Last Speech](https://interconnected.blog/morris-changs-last-speech/)
+- [How Valtio Proxy State Works (Vanilla Part)](https://itnext.io/how-valtio-proxy-state-works-vanilla-part-585ee38bd080)
+  - javascript
+- [Valtio makes proxy-state simple for React and Vanilla](https://github.com/pmndrs/valtio)
+  - javascript, react
+- [Spring Data JDBC - How to use custom ID generation](https://spring.io/blog/2021/09/09/spring-data-jdbc-how-to-use-custom-id-generation)
+- [Spring Core: Secrets about Dependency Injection - Javarevisited](https://medium.com/javarevisited/spring-core-all-you-need-to-know-about-dependency-injection-2048d80340af)
+- [ezrosent/frawk: an efficient awk-like language](https://github.com/ezrosent/frawk)
+  - commandline
+- [ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript#solid)
+- [RBAC like it was meant to be · Tailscale](https://tailscale.com/blog/rbac-like-it-was-meant-to-be/)
+- [microsoft/qlib: Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.](https://github.com/microsoft/qlib)
+- [Efficient Parsing of Reactive Buffer Streams](https://spring.io/blog/2021/09/14/efficient-parsing-of-reactive-buffer-streams)
+  - algorithm, string
+- [NotCraft/NotFeed: Turn GitHub into an RSS reader](https://github.com/NotCraft/NotFeed)
+- [osmoscraft/osmosfeed: Turn GitHub into an RSS reader](https://github.com/osmoscraft/osmosfeed)
+- [A web-based simulator for the Kubernetes scheduler](https://golangexample.com/a-web-based-simulator-for-the-kubernetes-scheduler/)
+- [All Emojis – Emoji List for Copy and Paste](https://www.freecodecamp.org/news/all-emojis-emoji-list-for-copy-and-paste/)
+- [Performance Comparison - RSocket Vs Webflux - Dhaval Shah](https://www.dhaval-shah.com/performance-comparison-rsocket-webflux/)
+- [Refactoring from imperative to reactive implementation - Dhaval Shah](https://www.dhaval-shah.com/refactoring-from-imperative-to-reactive-implementation/)
+  - webflux
+- [From AMP to Signed Exchanges, Or How Innovation Happens at Cloudflare](https://blog.cloudflare.com/from-amp-to-signed-exchanges-or-how-innovation-happens-at-cloudflare/)
+- [ReactiveX - Operators](http://reactivex.io/documentation/operators.html?spm=ata.21736010.0.0.13e187cefLbD6N)
+- [Kotlin is like TypeScript](https://linux-china.github.io/kotlin-is-like-typescript.html?spm=ata.21736010.0.0.5d8d6740swRJ3Z)
+- [Jetpack Compose is like React.js](https://linux-china.github.io/jetpack-compose-is-like-reactjs.html?spm=ata.21736010.0.0.5d8d6740swRJ3Z)
+- [How the JVM uses and allocates memory - Red Hat Developer](https://developers.redhat.com/articles/2021/09/09/how-jvm-uses-and-allocates-memory#how_to_check_the_thread_stack_size)
+  - java
+- [Debugging Python C extensions with GDB - Red Hat Developer](https://developers.redhat.com/articles/2021/09/08/debugging-python-c-extensions-gdb#red_hat_contributions_to_the_python_debug_build)
+  - debuginfo
+- [Explore new features in SystemTap 4.5.0 - Red Hat Developer](https://developers.redhat.com/articles/2021/08/16/explore-new-features-systemtap-450#bpf_back_end_improvements)
+- [Opening black boxes with statement tracing - Red Hat Developer](https://developers.redhat.com/articles/2021/08/04/opening-black-boxes-statement-tracing#statement_tracing_with_systemtap)
+  - systemtap
+- [Securing malloc in glibc: Why malloc hooks had to go - Red Hat Developer](https://developers.redhat.com/articles/2021/08/25/securing-malloc-glibc-why-malloc-hooks-had-go)
+- [FreeBSD SSH Hardening](https://gist.github.com/koobs/e01cf8869484a095605404cd0051eb11)
+- [tasket/wyng-backup: Fast Time Machine-like backups for logical volumes](https://github.com/tasket/wyng-backup)

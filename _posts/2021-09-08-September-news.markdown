@@ -67,3 +67,23 @@ categories: link
 - [Securing malloc in glibc: Why malloc hooks had to go - Red Hat Developer](https://developers.redhat.com/articles/2021/08/25/securing-malloc-glibc-why-malloc-hooks-had-go)
 - [FreeBSD SSH Hardening](https://gist.github.com/koobs/e01cf8869484a095605404cd0051eb11)
 - [tasket/wyng-backup: Fast Time Machine-like backups for logical volumes](https://github.com/tasket/wyng-backup)
+- [Automatic cipher suite ordering in crypto/tls - go.dev](https://go.dev/blog/tls-cipher-suites)
+- [Using Podman with BuildKit, the better Docker image builder](https://pythonspeed.com/articles/podman-buildkit/)
+- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
+  - mindset, awesome
+- [Elixir and Kubernetes: A love story — Part 1: Setting up an Elixir Cluster](https://itnext.io/elixir-and-kubernetes-a-love-story-721cc6a5c7d5)
+- [Ditch your version manager | juliu.is](https://juliu.is/ditch-your-version-manager/)
+  - nix
+- [Conductor: Why We Migrated from Kubernetes to Nomad – The New Stack](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/)
+- [Benchmarking Edge Network Performance: Akamai, Cloudflare, AWS CloudFront, Fastly, and Google](https://blog.cloudflare.com/benchmarking-edge-network-performance/)
+- [Set Sail with Tailwind CSS - DEV Community](https://dev.to/giantmachines/set-sail-with-tailwind-css-4o06)
+- [JavaScript vs JavaScript: Round 2. Fight! - DEV Community](https://dev.to/this-is-learning/javascript-vs-javascript-round-2-fight-2m44)
+- [Cool happenings in Fedora Workstation land - Christian F.K. Schaller](https://blogs.gnome.org/uraeus/2021/09/16/cool-happenings-in-fedora-workstation-land/)
+- [Shenandoah in OpenJDK 17: Sub-millisecond GC pauses - Red Hat Developer](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses#)
+  - java
+- [marcosnils/bin: Effortless binary manager](https://github.com/marcosnils/bin)
+- [The cost of Java's EnumSet](https://nullprogram.com/blog/2021/04/23/)
+- [Improving my Everyday Developer Experience](https://blog.cctechwiz.com/improving-my-everyday-developer-experience)
+- [How To Remember Anything Forever-ish](https://ncase.me/remember/)
+  - anki
+- [推荐几个正在用的 Anki 插件 - 知乎](https://zhuanlan.zhihu.com/p/120382581)

@@ -87,3 +87,27 @@ categories: link
 - [How To Remember Anything Forever-ish](https://ncase.me/remember/)
   - anki
 - [推荐几个正在用的 Anki 插件 - 知乎](https://zhuanlan.zhihu.com/p/120382581)
+- [Building a Pet Cam using a Raspberry Pi, Cloudflare Tunnels and Teams](https://blog.cloudflare.com/building-a-pet-cam-using-a-raspberry-pi-cloudflare-tunnels-and-teams/)
+- [Quick Tunnels: Anytime, Anywhere](https://blog.cloudflare.com/quick-tunnels-anytime-anywhere/)
+  - cloudflare
+- [Welcome to Speed Week and a Waitless Internet](https://blog.cloudflare.com/fastest-internet/)
+  - cloudflare
+- [Cloudflare Workers: the Fast Serverless Platform](https://blog.cloudflare.com/cloudflare-workers-the-fast-serverless-platform/)
+- [Optimizing images on the web](https://blog.cloudflare.com/optimizing-images/)
+  - blurhash, web performance
+- [Unboxing the Last Mile: Introducing Last Mile Insights](https://blog.cloudflare.com/last-mile-insights/)
+  - cloudflare
+- [Early Hints: How Cloudflare Can Improve Website Load Times by 30%](https://blog.cloudflare.com/early-hints/)
+  - cloudflare
+- [Revisiting Java in 2021 - I](https://www.avanwyk.com/revisiting-java-in-2021-i/)
+- [Revisiting Java in 2021 - II](https://www.avanwyk.com/revisiting-java-in-2021-ii/)
+  - scala, kotlin
+- [Project Myriagon: Cloudflare Passes 10,000 Connected Networks](https://blog.cloudflare.com/10000-networks-and-beyond/)
+- [PaSh: Light-touch Data-Parallel Shell Scripting](https://binpa.sh/)
+  - bgp
+- [Authenticated Boot and Disk Encryption on Linux](http://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html)
+  - systemd
+- [Leader election in Kubernetes using Apache Camel - Red Hat Developer](https://developers.redhat.com/articles/2021/09/23/leader-election-kubernetes-using-apache-camel#leadership_elections_in_openshift)
+- [GNU nano is my editor of choice – Ariadne's Space](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
+- [Automating a software company with GitHub Actions - PostHog](https://posthog.com/blog/automating-a-software-company-with-github-actions)
+- [Distributed transaction patterns for microservices compared - Red Hat Developer](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared#how_to_choose_a_distributed_transactions_strategy)

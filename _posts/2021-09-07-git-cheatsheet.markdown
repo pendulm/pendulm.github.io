@@ -14,8 +14,14 @@ delete local branch
 delete remote branch
 - git push origin -d remote_branch
 
-- checkout a remote bracnch
+checkout a remote bracnch
 -  git checkout -b feature/branch_xxx origin/feature/branch_xxx
+
+rename master to main branch
+- git branch -m master main
+
+tracking information for local branch
+- git branch --set-upstream-to=<remote>/<branch> fix_rootless_ssh
 
 
 ## revert
@@ -46,7 +52,8 @@ move specified commits to current branch
 - git cherry-pick C2 C4
 
 
+## commit
 
-
-
+add signoff message
+- git commit --signoff
 

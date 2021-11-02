@@ -57,3 +57,35 @@ move specified commits to current branch
 add signoff message
 - git commit --signoff
 
+
+## Misc
+
+fetch submodule
+- git submodule update
+
+## staged
+
+remove from staging area
+- git rm --cached filename
+
+show staged changes
+- git diff --staged
+
+show diff between staged and previous commit
+- git diff --cached
+
+unstage
+- git restore --staged filename
+
+
+## log
+show modified files
+- git log --stat
+
+show changes
+- git log --patch
+
+
+## refrence
+
+- [A Hacker's Guide to Git | Wildly Inaccurate](https://wildlyinaccurate.com/a-hackers-guide-to-git/)

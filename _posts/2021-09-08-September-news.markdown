@@ -111,3 +111,38 @@ categories: link
 - [GNU nano is my editor of choice – Ariadne's Space](https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/)
 - [Automating a software company with GitHub Actions - PostHog](https://posthog.com/blog/automating-a-software-company-with-github-actions)
 - [Distributed transaction patterns for microservices compared - Red Hat Developer](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared#how_to_choose_a_distributed_transactions_strategy)
+- [PowerShell on Linux? A primer on Object-Shells - Fedora Magazine](https://fedoramagazine.org/powershell-on-linux-a-primer-on-object-shells/)
+- [Container Migration Around The World](https://www.redhat.com/de/blog/container-migration-around-world)
+- [Features of bpftool: the thread of tips and examples to work with eBPF objects](https://qmonnet.github.io/whirl-offload/2021/09/23/bpftool-features-thread/)
+- [Installing Fedora 34 on my Turing Pi 7 node cluster - Richard WM Jones](https://rwmj.wordpress.com/2021/09/28/installing-fedora-34-on-my-turing-pi-7-node-cluster/)
+- [Go DDD实战：Aggregate](https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629)
+- [felixge/pprofutils](https://github.com/felixge/pprofutils)
+  - golang, performance, github
+- [Dentrax/cocert: Split and distribute your private keys securely amongst untrusted network](https://github.com/Dentrax/cocert)
+  - security, crypto
+- [Generics in Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/generics)
+- [Pin, Unpin, and why Rust needs them](https://blog.cloudflare.com/pin-and-unpin-in-rust/)
+  - async
+- [letsencrypt/openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases)
+  - zfs, storage
+- [The Gold Standard](https://www.goldstandard.org/)
+  - carbon reduce
+- [How to execute an object file: Part 1](https://blog.cloudflare.com/how-to-execute-an-object-file-part-1/)
+  - cloudflare, unread
+- [Building LLVM in 90 seconds using Amazon Lambda - Made of Bugs](https://blog.nelhage.com/post/building-llvm-in-90s/)
+  - serverless
+- [Lightweight Linux Kernel Development with KVM - Made of Bugs](https://blog.nelhage.com/2013/12/lightweight-linux-kernel-development-with-kvm/)  
+- [Structural pattern matching in Python 3.10](https://benhoyt.com/writings/python-pattern-matching/)
+  - syntax
+- [Let's Encrypt's Root Certificate is expiring!](https://scotthelme.co.uk/lets-encrypt-old-root-expiration/)
+- [Nyxt browser: nyxt-versus-plugins.org](https://nyxt.atlas.engineer/article/nyxt-versus-plugins.org)
+- [Go generics have a new "type sets" way of doing type constraints](https://utcc.utoronto.ca/~cks/space/blog/programming/GoGenericsTypeSets)
+- [Examining btrfs, Linux’s perpetually half-finished filesystem - Ars Technica](https://arstechnica.com/gadgets/2021/09/examining-btrfs-linuxs-perpetually-half-finished-filesystem/)
+- [Linux Page Cache for SRE | Viacheslav Biriukov](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/)
+  - tutorial
+- [ASCIIFlow](https://asciiflow.com/#/local/Untitled%20drawing)
+  - tools
+- [EtoDemerzel0427/ANSI-art: Generate ANSI-/Ascii-art version images/Gifs in your terminal.](https://github.com/EtoDemerzel0427/ANSI-art)
+- [Raspberry Pi as a router using a single network interface](https://louwrentius.com/raspberry-pi-as-a-router-using-a-single-network-interface.html)
+- [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules)
+  - mindset, learnin

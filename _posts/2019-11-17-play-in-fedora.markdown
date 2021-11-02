@@ -75,6 +75,9 @@ dnf deplist podman
 # search file in which repo
 dnf provides *netem*
 
+# show dnf config
+dnf config-manager --dump
+
 # install java # see: https://docs.fedoraproject.org/en-US/quick-docs/installing-java/
 dnf install java-1.8.0-openjdk-devel
 

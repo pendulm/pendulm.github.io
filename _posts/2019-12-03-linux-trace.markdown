@@ -25,6 +25,7 @@ categories: Linux
 - [An eBPF overview, part 5: Tracing user processes](https://www.collabora.com/news-and-blog/blog/2019/05/14/an-ebpf-overview-part-5-tracing-user-processes/)
 - [How to Trace Linux System Calls in Production with Minimal Impact on Performance](https://pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance)
 - [Tips and Tricks for Writing Linux BPF Applications with libbpf](https://pingcap.com/blog/tips-and-tricks-for-writing-linux-bpf-applications-with-libbpf)
+- [Features of bpftool: the thread of tips and examples to work with eBPF objects](https://qmonnet.github.io/whirl-offload/2021/09/23/bpftool-features-thread/)
 
 
 

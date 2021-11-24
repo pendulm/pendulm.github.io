@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "2021 November News"
+date:   2021-11-03 15:00:00
+categories: link
+---
+
+- [What’s New for Developers](https://help.gnome.org/misc/release-notes/41.0/developers.html)
+  - gnome, gtk
+- [jle64/gnome-pass-search-provider: Pass password manager search provider for gnome-shell](https://github.com/jle64/gnome-pass-search-provider)
+- [Reconfiguring virtual machines with Cockpit - Fedora Magazine](https://fedoramagazine.org/reconfiguring-virtual-machines-with-cockpit/)
+- [Build a lab in five minutes with three simple commands - Enable Sysadmin](https://www.redhat.com/sysadmin/build-lab-quickly)
+  - libvirt, qemu
+- [How to configure MPLS with tc in the Linux kernel - Enable Sysadmin](https://www.redhat.com/sysadmin/mpls-tc-linux-kernel)
+- [Using sensitive data in containers - Enable Sysadmin](https://www.redhat.com/sysadmin/sensitive-data-containers)
+  - podman
+- [CentOS / RHEL 7 : How to extract initramfs image and edit/view it – The Geek Diary](https://www.thegeekdiary.com/centos-rhel-7-how-to-extract-initramfs-image-and-editview-it/)
+- [Btrfs Snapshot Management With Snapper - JWillikers](https://www.jwillikers.com/btrfs-snapshot-management-with-snapper)
+- [Why Podcasts Are My New Wikipedia —the  Perfect Informal Learning Resource - Listen Notes](https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/)
+- [How to learn compilers: LLVM Edition - Low Level Bits](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/)
+- [老生常谈之 n 种使用 CSS 实现三角形的技巧 · Issue #108 · chokcoco/iCSS](https://github.com/chokcoco/iCSS/issues/108)
+- [Hyperlinks in Terminal Emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda)
+  - escape sequence
+- [hterm Control Sequences](https://chromium.googlesource.com/apps/libapps/+/a5fb83c190aa9d74f4a9bca233dac6be2664e9e9/hterm/doc/ControlSequences.md#OSC)
+  - chromium
+- [GtkSourceView is getting a VIM emulator – Zen and the Art of GNOME](https://blogs.gnome.org/chergert/2021/11/01/gtksourceview-is-getting-a-vim-emulator/)
+- [System76: A Case Study on How Not To Collaborate With Upstream – Chris's Design & Development](https://blogs.gnome.org/christopherdavis/2021/11/10/system76-how-not-to-collaborate/)
+- [SimSWE 4: Wants, needs, and chasm-crossing - apenwarr](https://apenwarr.ca/log/20211024)
+- [Stefan Hajnoczi: A new approach to usermode networking with passt](http://blog.vmsplice.net/2021/10/a-new-approach-to-usermode-networking.html)
+- [Stefan Hajnoczi: Peer-to-peer applications with Urbit](http://blog.vmsplice.net/2021/11/peer-to-peer-applications-with-urbit.html)
+- [请给清华镜像站减压 - 竹林里有冰的博客](https://blog.zhullyb.top/2021/05/27/relieve-the-pressure-of-tuna-mirror-site-please/)
+- [Quarkus for Spring developers: Kubernetes-native design patterns - Red Hat Developer](https://developers.redhat.com/articles/2021/10/11/quarkus-spring-developers-kubernetes-native-design-patterns#operating_applications_on_kubernetes)
+  - java
+- [Announcing Service Binding Operator 1.0 GA - Red Hat Developer](https://developers.redhat.com/articles/2021/10/27/announcing-service-binding-operator-10-ga#example_scenario)
+- [How to choose the best Java garbage collector - Red Hat Developer](https://developers.redhat.com/articles/2021/11/02/how-choose-best-java-garbage-collector#)
+  - jvm
+- [Improve UDP performance in RHEL 8.5 - Red Hat Developer](https://developers.redhat.com/articles/2021/11/05/improve-udp-performance-rhel-85#conclusion)
+  - kernel, network, tso, gro
+- [Boost throughput with RESTEasy Reactive in Quarkus 2.2 - Red Hat Developer](https://developers.redhat.com/articles/2021/11/04/boost-throughput-resteasy-reactive-quarkus-22#tune_the_slow_endpoints_to_optimize_performance)
+- [Multipath TCP on RHEL 8: From one to many subflows - Red Hat Developer](https://developers.redhat.com/articles/2021/10/20/multipath-tcp-rhel-8-one-many-subflows#opening_an_mptcp_socket)
+  - mptcp
+- [Improving the performance and space efficiency of SELinux](https://www.redhat.com/en/blog/improving-performance-and-space-efficiency-selinux)
+  - valgrind
+- [为 PDF 增加目录 - 少数派](https://sspai.com/post/69601)
+- [Git飞行规则(Flight Rules)](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
+- [How I Built My New Linux Gaming Desktop in 2021 with AMD (CPU+GPU) and GNU Guix - Boiling Steam](https://boilingsteam.com/how-i-built-my-new-linux-gaming-desktop-in-2021-with-amd-cpugpu-and-gnu-guix/)
+- [alan2207/bulletproof-react: 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.](https://github.com/alan2207/bulletproof-react)
+- [Rondam Ramblings: A catalog of wealth-creation mechanisms](https://blog.rongarret.info/2009/10/catalog-of-wealth-creation-mechanisms.html)
+- [Neo23x0/auditd: Best Practice Auditd Configuration](https://github.com/Neo23x0/auditd)
+- [Orange-OpenSource/hurl: Hurl, run and test HTTP requests.](https://github.com/Orange-OpenSource/hurl)
+  - curl
+- [Rust Is The Future of JavaScript Infrastructure – Lee Robinson](https://leerob.io/blog/rust?spm=ata.21736010.0.0.54e77e34v3Hn3o)
+- [GNOME Timed Wallpapers / Applications & Desktop Environments / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=258587)
+- [How to set GNOME to display a custom slideshow - Opensource.com](https://opensource.com/article/17/12/create-your-own-wallpaper-slideshow-gnome)
+- [xyproto/wallutils: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers](https://github.com/xyproto/wallutils)
+- [Best practices for building images that pass Red Hat Container Certification - Red Hat Developer](https://developers.redhat.com/articles/2021/11/11/best-practices-building-images-pass-red-hat-container-certification)
+- [Use Ansible tags to save time on playbook runs - Enable Sysadmin](https://www.redhat.com/sysadmin/ansible-tags-fast-playbook-runs)
+- [Pull container images faster with partial pulls - Enable Sysadmin](https://www.redhat.com/sysadmin/faster-container-image-pulls)
+- [How to design a business card with Inkscape - Fedora Magazine](https://fedoramagazine.org/how-to-design-a-business-card-with-inkscape/)
+- [微信公众号的排版自动化，让阅读体验更进一步 - 少数派](https://sspai.com/post/69926)
+- [Endless Orange Week: GNOME on WSL – Will Thompson’s GNOME-ish blog](https://blogs.gnome.org/wjjt/2021/11/16/endless-orange-week-gnome-on-wsl/)
+- [Be flexible to win big – Adventures in Linux and KDE](https://pointieststick.com/2021/11/13/be-flexible-to-win-big/)
+- [JVM performance monitoring with JMC agent - Red Hat Developer](https://developers.redhat.com/articles/2021/11/16/jvm-performance-monitoring-jmc-agent#)
+
+## No read yet
+- [Printf-style debugging using GDB, Part 2 | Red Hat Developer](https://developers.redhat.com/articles/2021/10/13/printf-style-debugging-using-gdb-part-2#)
+- [A compiler option, a hidden visibility, and a weak symbol walk into a bar | Red Hat Developer](https://developers.redhat.com/articles/2021/10/27/compiler-option-hidden-visibility-and-weak-symbol-walk-bar#)
+- [A beginner's attempt at optimizing GCC | Red Hat Developer](https://developers.redhat.com/articles/2021/10/29/beginners-attempt-optimizing-gcc)
+- [Debug memory errors with Valgrind and GDB | Red Hat Developer](https://developers.redhat.com/articles/2021/11/01/debug-memory-errors-valgrind-and-gdb)
+- [Anatomy of a Terminal Emulator :: poor.dev](https://www.poor.dev/blog/terminal-anatomy/)
+- [Testing The Silk Platform - Hands-On Technical Analysis of High-Performance I/O in the Cloud | Tanel Poder Consulting](https://tanelpoder.com/posts/testing-the-silk-platform/)

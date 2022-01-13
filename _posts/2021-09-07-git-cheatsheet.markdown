@@ -27,6 +27,8 @@ tracking information for local branch
 ## revert
 [Git Revert Commit – 如何撤消最后一次提交](https://www.freecodecamp.org/news/git-revert-commit-how-to-undo-the-last-commit/)
 
+[How to Squash Last N Commits in Git?](https://jdhao.github.io/2022/01/09/git_squash_last_n_commits/)
+
 revert last commit, add extra commit of revert itself
 - git revert HEAD
 

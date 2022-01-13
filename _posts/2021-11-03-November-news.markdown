@@ -63,9 +63,10 @@ categories: link
 - [JVM performance monitoring with JMC agent - Red Hat Developer](https://developers.redhat.com/articles/2021/11/16/jvm-performance-monitoring-jmc-agent#)
 
 ## No read yet
-- [Printf-style debugging using GDB, Part 2 | Red Hat Developer](https://developers.redhat.com/articles/2021/10/13/printf-style-debugging-using-gdb-part-2#)
-- [A compiler option, a hidden visibility, and a weak symbol walk into a bar | Red Hat Developer](https://developers.redhat.com/articles/2021/10/27/compiler-option-hidden-visibility-and-weak-symbol-walk-bar#)
-- [A beginner's attempt at optimizing GCC | Red Hat Developer](https://developers.redhat.com/articles/2021/10/29/beginners-attempt-optimizing-gcc)
+- [Printf-style debugging using GDB, Part 2 - Red Hat Developer](https://developers.redhat.com/articles/2021/10/13/printf-style-debugging-using-gdb-part-2#)
+- [A compiler option, a hidden visibility, and a weak symbol walk into a bar - Red Hat Developer](https://developers.redhat.com/articles/2021/10/27/compiler-option-hidden-visibility-and-weak-symbol-walk-bar#)
+- [A beginner's attempt at optimizing GCC - Red Hat Developer](https://developers.redhat.com/articles/2021/10/29/beginners-attempt-optimizing-gcc)
 - [Debug memory errors with Valgrind and GDB | Red Hat Developer](https://developers.redhat.com/articles/2021/11/01/debug-memory-errors-valgrind-and-gdb)
 - [Anatomy of a Terminal Emulator :: poor.dev](https://www.poor.dev/blog/terminal-anatomy/)
-- [Testing The Silk Platform - Hands-On Technical Analysis of High-Performance I/O in the Cloud | Tanel Poder Consulting](https://tanelpoder.com/posts/testing-the-silk-platform/)
+- [Testing The Silk Platform - Hands-On Technical Analysis of High-Performance I/O in the Cloud - Tanel Poder Consulting](https://tanelpoder.com/posts/testing-the-silk-platform/)
+- [Go 1.18新特性前瞻：Go工作区模式 - Tony Bai](https://tonybai.com/2021/11/12/go-workspace-mode-in-go-1-18/)

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "2022 June News"
+date:   2022-06-15 10:59:32
+categories: link
+---
+
+- [Writing Tests with JUnit 5 - The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2020/09/writing-tests-with-junit-5/)
+- [An Introduction To Generics - The Go Programming Language](https://go.dev/blog/intro-generics)
+- [blog.fidelramos.net – My free-software photography workflow](https://blog.fidelramos.net/photography/photography-workflow#5-replication-with-syncthing)
+- [One-Stop Guide to Mapping with MapStruct](https://reflectoring.io/java-mapping-with-mapstruct/)
+  - java
+- [AbortController is your friend](https://whistlr.info/2022/abortcontroller-is-your-friend/)

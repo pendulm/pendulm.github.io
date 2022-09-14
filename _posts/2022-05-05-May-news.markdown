@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "2022 May News"
+date:   2022-05-05 11:51:30
+categories: link
+---
+
+- [avinassh/py-caskdb: (educational) build your own disk based KV store](https://github.com/avinassh/py-caskdb)
+- [Exploring GitHub repo name distribution with jq - DJ Adams](https://qmacro.org/blog/posts/2022/05/07/exploring-github-repo-name-distribution-with-jq/)
+- [Fitting Everything Together](https://0pointer.net/blog/fitting-everything-together.html)
+- [Introducing zq: an Easier (and Faster) Alternative to jq - Brim Data](https://www.brimdata.io/blog/introducing-zq/)
+- [An introduction to USB Device Emulation and how to take advantage of it - Fedora Magazine](https://fedoramagazine.org/an-introduction-to-usb-device-emulation-and-how-to-take-advantage-of-it/)
+- [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
+- [Response to “Flatpak Is Not the Future” - TheEvilSkeleton](https://theevilskeleton.gitlab.io/2022/05/16/response-to-flatpak-is-not-the-future.html)
+- [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/)
+- [Using Unsafe safely in GraalVM Native Red Hat Developer](https://developers.redhat.com/articles/2022/05/09/using-unsafe-safely-graalvm-native-image#how_to_fix_unsafe_offset_computations)
+- [DuckDuckGo Chrome Extension Blocks Google Topics and FLEDGE](https://spreadprivacy.com/topics-and-fledge-blocked/)
+- [用 Option 给 macOS 操作加点料 - 少数派](https://sspai.com/post/73385)
+- [Guidance for Choosing an Elliptic Curve Signature Algorithm in 2022 - Dhole Moments](https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/)
+- [Making macOS behave itself - Dan MacKinlay](https://danmackinlay.name/notebook/macos_hacks.html)
+- [我如何为网络捕获、编码和嵌入屏幕录像 · mmazzarolo.com](https://mmazzarolo.com/blog/2022-05-25-how-i-capture-encode-and-embed-videos/)
+- [一张照片，就能知道你在哪里？网络迷踪初探 - 少数派](https://sspai.com/post/73193)
+- [How to switch between the CLI and GUI on a Linux server - Enable Sysadmin](https://www.redhat.com/sysadmin/configure-systemd-startup-targets)

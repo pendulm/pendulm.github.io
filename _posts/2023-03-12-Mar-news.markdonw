@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "2023 Mar News"
+date:   2023-03-12 19:00:07
+categories: link
+---
+
+- [Mounting into mount namespaces | Personal blog of Christian Brauner](https://brauner.io/2023/02/28/mounting-into-mount-namespaces.html)
+这篇文章介绍了在容器场景里如何将mount挂载到其他mount namespace的技巧，包括一种复杂而巧妙的技巧以及新API提出之后的更合理的方案
+
+
